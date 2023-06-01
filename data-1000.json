@@ -1,0 +1,4003 @@
+[
+  {
+    "name": "Python",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGIb6aTtToGbnh6rn76ZVHP6GJayH5ytStvHhZ5ayiCOtqAAwiKlpXYfMb2Q&s"
+  },
+  {
+    "name": "Java",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7agYxNzTXaNPAhVUXp7ji7PrjadidSPiK6WjGSaRZw2lKpp0hoe76ObYMw&s"
+  },
+  {
+    "name": "C++",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbe-Q1MrMEZkjp8k8tQIlQT1E3Z-67uUup247h-ki9QdWXgZo9kLYlWnErWA&s"
+  },
+  {
+    "name": "JavaScript",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMlyeBZXovpQjyeefrSRReFLBdMgvIe1-W15LE1XrkjnPUTvKWwCEzoZurA&s"
+  },
+  {
+    "name": "Ruby",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4d7XgbsG-WVMHfAOuQYufNAGBIIEPcB50gIF8Q1P7qjFwwzbMaKM4iMpYLg&s"
+  },
+  { "name": "C#", "link": "error" },
+  {
+    "name": "PHP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6n6hjCcAxzsMqpB-jDdS0VMRQTjj6XDaV_W0MvOttpeqwcJXMmlKz7tm9A&s"
+  },
+  {
+    "name": "Swift",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TR3WmiYH_IovKHeoRqkOr2J0_k3ep-6iRent92KT7izt2Z8Wgs6-_r4K318&s"
+  },
+  {
+    "name": "Kotlin",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1W9khk2RDlgIyYE4JecDORLb2RXpRj-PtyAmS9l5oRIG-rIIj4wtbolkvfkw&s"
+  },
+  {
+    "name": "Go",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm2HiZGsD_4sNfSScpAdHcym0YvB_p09oth7Vp3-NLMsUJi5ctewxVXNZuC1I&s"
+  },
+  {
+    "name": "HTML5",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUkMdm4llnlXIOZnEkMbQdg29c0fO-S5mYyKQX6L6RXU8PdVX13UgNgBnXYI&s"
+  },
+  {
+    "name": "CSS3",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3FE7Fbb4AZHUMt1JHudLhwxMjUfRyCcJoDvGz-TZtQ1yvENJt4seLiTd5Xg&s"
+  },
+  {
+    "name": "React",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1r4IxDp4GLLXCTQkY8OX4FhkEKERQjzXObDlOwLuaiBDRNJRyBmmxKPKTwI&s"
+  },
+  {
+    "name": "Angular",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNIdKs9Mb4y_f4v8UQeHcx1vLIz5nJIJiiP3Nax7JyOUBNKle0oYZ2OBnvA&s"
+  },
+  {
+    "name": "Vue.js",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbksu9_CFKMUTbzPf_Pa80Q-0Ash2GXskQy7s1J0Ux1GqVmNndftOFjYVfWQ&s"
+  },
+  {
+    "name": "Bootstrap",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTBeGIAuYyGDx1YF_XekgGVGo2N2zGfTkkrElNukm5Jf7kzJ-UZA7eroJZGs&s"
+  },
+  {
+    "name": "jQuery",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqrZSuKut4ASrHGRoLW-6HaTD5jcjZpHhEKIbTF9cth01CvG_pDXGK0MQVw&s"
+  },
+  {
+    "name": "RESTful APIs",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s2zEHsFDa_knVSfIXrL0X7YfSjV6Ryb6Yn3PjWDwaqjOdLtRG4zVtd-2lkQ&s"
+  },
+  {
+    "name": "GraphQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpK70nze8EQ7zk86NhmNfdALrVqPweYCnoW5AlkBkq4wiy0coaEUZ8-i4vGM&s"
+  },
+  {
+    "name": "Node.js",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH3av3z0PivZWoTtCoK-tDzu83iAqqSV5woIQTCFt4ihbNosXrXLBON2f9Dg&s"
+  },
+  {
+    "name": "Express.js",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHaPHR9S2cST2V6R4v-poYmZZrjkOZnhgFdHkfMfEmYg1ODa7USNpqGECLuVI&s"
+  },
+  {
+    "name": "Django",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf52_11emEWjEoN2W5b2sHz_JBqpbTus-J0NTfSI08DM-3DZK6D17RxiS2g&s"
+  },
+  {
+    "name": "Ruby on Rails",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUt0bsHQcudxXbHXcbSgvgj2otYCxGCA8-OsgcdSt3cpcYmX3iBM3UpNWU9w&s"
+  },
+  {
+    "name": "ASP.NET",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcoTiYHD7-bHeqSH0S41JvwKRCfyn0wNmWgijLUQ7UK8uHl8i_y1CtrAdw5Ek&s"
+  },
+  {
+    "name": "SQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe93zXQsDD2oI7jMz0f0C3xiWg6yGDl4e0oiBStRlrLJL4Os27sMcnoDr9ng&s"
+  },
+  {
+    "name": "MySQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQqD_FUlzQbY39l-Ucnxd3fSgLQuCe3x8sJNhdo8jqTnBPG9tIJcs_HJgLg&s"
+  },
+  {
+    "name": "PostgreSQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8fA9aHBou5sGhn5r07MkLT7N5Ec5afToFKBylV75mhtE5gIA6Zdc1xvep8NI&s"
+  },
+  {
+    "name": "Oracle",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRigFVCmnsEG8K-BS7OY9SxfxfJOD0VsrbeQ2KsQkXVCpY3GEFUbunHIuPqUg&s"
+  },
+  {
+    "name": "MongoDB",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RC2zlZOfnC06iaxw5k75R1T-MOMDRgcM4AYobppCWVrbmoQJQMovyZWdrz0&s"
+  },
+  {
+    "name": "NoSQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk4gD5EzDm9DTLaKqNnvYbA6CbjAkKnUsVE4jzktFrNzJGfrB-Hojmn8tdzjc&s"
+  },
+  {
+    "name": "Git",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PdCk0jhFaWyC226E6EHa9ne4cuG_gjS8Ihr99oJ3xI5yFJWsE836PFdSTUA&s"
+  },
+  {
+    "name": "GitHub",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQleicaiE5aHlmR3dNjfPXdxYFJfO5usOhBesu2PoLtLVqyjp7vbc8c4AEgPQ&s"
+  },
+  {
+    "name": "Docker",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEH3eqC4Uz0YjEXEVnTGZmicElI7c1QgM9ZdGWbgLBk0UePF2X1LI9gmdP-8&s"
+  },
+  {
+    "name": "Kubernetes",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSptdMin46FDAcKJCyJqHs0lA0u6UMjw7JnFdHk0-XhTcPetk5nPskaNMg2LA&s"
+  },
+  {
+    "name": "AWS (Amazon Web Services)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjbylGxx7zFxBdrTjRjhnMgOvHVFFnV9WZ2Zq-cMvrxw5oJwsryg93BWZeow&s"
+  },
+  {
+    "name": "Azure",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DSJHr8Z2UvphNwCp8C50THWjUoaMq4bz0jUAk40dLS8hH-KqIykYR3-eC34&s"
+  },
+  {
+    "name": "Google Cloud Platform",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdywcd8tloXvbkZ37YRUQomgBTKeYxUIdp7SGP1Z2VJv3KHDcunDlr_xV9nSc&s"
+  },
+  {
+    "name": "Linux",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJB6iFzpZvNWUl0WIjNxllwi5Ih-n0davABsi8H9iJthaQjebRwBJrPuHVOg&s"
+  },
+  {
+    "name": "Windows Server",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpTTF_KZ3roBktgZjRokSAngHdXAS0fhHkarKeAzWrRGFgx_3fbpjv-s6Kj4&s"
+  },
+  {
+    "name": "Networking",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rj76wl846mJ9ffkeTdnjaui7jJVVAy3AwoGxmOa0eoM1GWPiLklMurLCRQ&s"
+  },
+  {
+    "name": "TCP/IP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nho6juQeOvZALPKb6xnEzD3MN1Kf3mQRSyvlnlKBrZ56PAZODPSspHXwUw&s"
+  },
+  {
+    "name": "DNS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVdrZWoZwhfcfRxBoiV7c8EN1fUZLXjv-ZXiSb3DEYucMKKywIK5HIQVe-Wg&s"
+  },
+  {
+    "name": "DHCP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLw8SEZ0T6i0avHB1ZH7E_x_kq7iJ02vnzQN5xSyuM6jOwGPfI5kQeiqjLw&s"
+  },
+  {
+    "name": "Firewall configuration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxnnDHDVjBbXb84Yz5NAcOKndkQ-Mhjvvo61iStGS-fSmZXH--uFyWTjyonQ&s"
+  },
+  {
+    "name": "Cybersecurity",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrg3MJKjl-zJlF61g_X0OIZcYG5Gz1C3oKpevYfsQgn46MuHHo_nbIqigY-A&s"
+  },
+  {
+    "name": "Penetration testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFGNeZGsMsezdnQaG03yOXUO6156wh7duIkz7dCmMDteTd4NE2n2CU2tBrQ&s"
+  },
+  {
+    "name": "Ethical hacking",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDzkjqhAoFPz7o0neMQJf4v0osD6p9bmVCKhYV3bF8S7dcT_vmy5DiDgaa-U&s"
+  },
+  {
+    "name": "Data analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlpHOq1MWSim_-aW3qrt3_rNlJyhzRtc4Ovmg73kC-ffrr5PZc8mpBaDhLPJw&s"
+  },
+  {
+    "name": "Machine learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcb8N9cUbS0Fjpjg9sNkuEz3T4rEBCmwb4xTuZBxg9XlJXs_watb-twTgadf8&s"
+  },
+  {
+    "name": "Artificial intelligence",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhM34wYxKNQ0DLGA-V-SM0Poo44HSBGgKz1bOzQzHT2wP1XI605M7VJ-AXVA&s"
+  },
+  {
+    "name": "Natural language processing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8feyjESzc0UHwu01EJQuhEMZGjuN-4grplsMe3oH6oLe1oTuhFTTvTIdnco&s"
+  },
+  {
+    "name": "Big Data",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOhzqJgXkLzKSqOQczjnmdrZnWloOYo14-NaYNjSPvC0xzRUDbAbAzLxWy6M&s"
+  },
+  {
+    "name": "Hadoop",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLwmPQ60c5zb9AkButQ1eo1s9d1-2zSco4eDcYgHUJv7EZvfLDA9-yRNgR1g&s"
+  },
+  {
+    "name": "Spark",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrI0vyBwli99OnKuMCohQZJQTjUyC0LKrX7aBTSsuWFXo90o_CyBcysyBuEVc&s"
+  },
+  {
+    "name": "Data visualization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8DKo4lJEValbOiU3RASUFo4_eONuGPix4b1YWtJ1krvN0IIFPDYVBakloA&s"
+  },
+  {
+    "name": "Tableau",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFV8b3do0ZTvzHpmVZN_gVl8u2k4Mc37f39xy9cSlNx-xu2XhF2BviciqATY&s"
+  },
+  {
+    "name": "Power BI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZE1iOWzNuztLFb7XshaSC56Z9mYcplcUykO5VR1l7QELGgtBOuBk91ENvqA&s"
+  },
+  {
+    "name": "MATLAB",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ukI9j_djaiWP0pSr9YwCkprAyhHhSCwUy2Mxa1jExpwfEb2AzOqyQeFgXDQ&s"
+  },
+  {
+    "name": "R",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5WRwe-YfERUDOAAQq5i6dE4jDyk4Xn_0LN2iJ4wtCCTTbjcMsfwmXOBrRfw&s"
+  },
+  {
+    "name": "Excel",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKmGEG0g_W8guGtTXaIRXl_jB5KlQxR4OU_mJ56PqDq_pYi12eafvTqb0ug&s"
+  },
+  {
+    "name": "Statistical analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXThZF2GXH6UaY7vXR8Eg1pBcHpN81y_E_M7B2q-6TtaK-Z26nnh8sR6tIcA&s"
+  },
+  {
+    "name": "Agile methodologies",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwOTU90B9TrkHRO7p5pEyvVY9UoRjjkVXvcYrZ_tgP9-f21el5jcCgzNDjELs&s"
+  },
+  {
+    "name": "Scrum",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-jsRcN0oSSc7zh9Rb6EOJv69hFll-us2pcBYLpfsQvkFcrFZmzkusLIj9g&s"
+  },
+  {
+    "name": "Kanban",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS_P73BdCxIxiwQzthS3mCoYNdLFlNWTU_nvuWQLT1agpXiJ4hZXZSnmL9pQ&s"
+  },
+  {
+    "name": "Project management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYDGMbguAMJsYyzjaAaDRP2kqxw--7eZ-V6AH0VrwZBuY-27F7ZV1BfrCdnI&s"
+  },
+  {
+    "name": "UI/UX design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6NvUJ_pK25eDC3OmNs9Gm-biwU_liMAM3guGAvHNS024-FwW453Yo6RY3Q&s"
+  },
+  {
+    "name": "Adobe Creative Suite",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WwG9G2m6DSZ2YaXOP4gIufy93Cukjx2hWdUkdDacfIzBL8dY5OZH9YBolA&s"
+  },
+  {
+    "name": "Photoshop",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopI__1L1VXFMia1-2avuGFsZXEdveTiv43Q7-bZLe0HK6Q5S7RaRFU3iqqmg&s"
+  },
+  {
+    "name": "Illustrator",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nR8hwLsy1hY1sk_YDlru_c1AhFLB9FX5Oz47iGlTuOPaqM6RZn13BWlnDQ&s"
+  },
+  {
+    "name": "InDesign",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJp96HgjnI441Jw20WesLPBvBQ3w94GOaQ6OGJfzy-6JRDF_okY7_AGHPP-w&s"
+  },
+  {
+    "name": "Front-end development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0d8jo_DNt4ZoBxwEI1MAQ2a5D_WVoCYhLPx0o5ZsEe8nl9ZJR5SDxuQBofK4&s"
+  },
+  {
+    "name": "Back-end development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qHfo7bFhkWdOtgMaYVDfWYLKM-v2NPDUUnJA8whNJDZL4G5FkEHe6wLvIu8&s"
+  },
+  {
+    "name": "Mobile app development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR37k0mjo4pzrx6vgPcM4QkHyDAcguw849AWvzh-4dBSJwOduhkZ3zBivyBmA&s"
+  },
+  {
+    "name": "Android",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStt_GRBQii69YvCnePS3vWOaM52U3U77UKiyf2CthZpC9xRT5HodgYlLqLNSs&s"
+  },
+  {
+    "name": "iOS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmHqlBVhT9biITzOJj5JYVN-O9tRQuL74P2phxmkkN4GIpWoey51TUqlND6ZM&s"
+  },
+  {
+    "name": "Swift",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TR3WmiYH_IovKHeoRqkOr2J0_k3ep-6iRent92KT7izt2Z8Wgs6-_r4K318&s"
+  },
+  {
+    "name": "Objective-C",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY2ococpDecoqCxdciZq7NVs7TxpQQvlTJ0LcaOhYNtrHhJZUL6MlCXz09hAo&s"
+  },
+  {
+    "name": "Kotlin",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1W9khk2RDlgIyYE4JecDORLb2RXpRj-PtyAmS9l5oRIG-rIIj4wtbolkvfkw&s"
+  },
+  {
+    "name": "Flutter",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPz5AJEEdPk5kc2TgNq2_lqEL4nPPYAYeTD0jHKtihEMFmZ8foIWLbZY2l_w&s"
+  },
+  {
+    "name": "React Native",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1r4IxDp4GLLXCTQkY8OX4FhkEKERQjzXObDlOwLuaiBDRNJRyBmmxKPKTwI&s"
+  },
+  {
+    "name": "Xamarin",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4RjVMLsNOYA50680ZuIRUN9On1Fzl8W3BJj9LfcomQUSleZDJZPN4nVL_qU&s"
+  },
+  {
+    "name": "Software testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2FY8BKvrQ732PBaA5fJ3Rs8o_hzSERq0gbQ176r2Jxo-HJpP-n6Uyce_yw&s"
+  },
+  {
+    "name": "Test automation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2FY8BKvrQ732PBaA5fJ3Rs8o_hzSERq0gbQ176r2Jxo-HJpP-n6Uyce_yw&s"
+  },
+  {
+    "name": "Selenium",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCz5dZQEcu4dKSAgwibkpaSeaD-X1elinR0UcvBUmHGoEUV5G1HChepd1P8sE&s"
+  },
+  {
+    "name": "JUnit",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1nRYRSEiZ_VToxxA2rCx1HAwnwtbML8Wi9qpD5AcaknwxC5EbBZdWvhLzZA&s"
+  },
+  {
+    "name": "DevOps",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYvkzfYs3EWCfAOGU4FvA00RlJGN1PEYtq9SVd0vsfgklNGFHErpFYqqAig&s"
+  },
+  {
+    "name": "Continuous Integration/Continuous Deployment (CI/CD)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4BH7cy-Xxf0lRly1uK_yjLqNabXSePjPu1A5fMTxflDuWeabT81OhGRnxw&s"
+  },
+  {
+    "name": "Jenkins",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-6oFuxsfllZoUf9NsgE7_OmjxMFoGU0u5v-b6ssouPM7JQNlAdErMck9NEv8&s"
+  },
+  {
+    "name": "Ansible",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqrfCwi1Vo2KJbjrcRgznXBy4AvLJDgouKH3bXHFlthGJfLqsKa5I2gC6n66o&s"
+  },
+  {
+    "name": "Puppet",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPg5rker8nebukhMpBa5jkMDL9hRqOeIIpoodySmY--GqpKozkuhOBTFmTDk&s"
+  },
+  {
+    "name": "Chef",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyzZTTry97N0RoCHXsENwPVC_K_3XExxZDOzzb-31cxkVSBbsPAn8jjTXug&s"
+  },
+  {
+    "name": "Technical writing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KNPXJ6QupnR2K0jrtGROHc2nijwbvHaCSwduQGPSedak0gXFSf7mk9cpiQ&s"
+  },
+  {
+    "name": "Documentation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAhJmrPJII130Jy83IF1ZNEyEp-45VtYImoPTjiAeVON2el8f9LotSwy2lA&s"
+  },
+  {
+    "name": "Troubleshooting",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6R_S39iqcaYi0FmRKk9IGxFUL30g5NU3YYGuGxHXsGssUYpf-1wEI02FUvA&s"
+  },
+  {
+    "name": "Cryptography",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRukQXFYkFkS6-Z_CtbXKKiRb78UTA021aFKiPAClMvtMmWIoM_fQYeAtrHaF4&s"
+  },
+  {
+    "name": "Blockchain technology",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQx67TIG__Cufy6KmjmjaUQVbsEcV35c5USxcc6C45ZWpMnZnwuFkgpQ2B4w&s"
+  },
+  {
+    "name": "Internet of Things (IoT)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmynDir4ADQtlde9vmnMpEm4NhDxD3Y1RklAoIoPVEhEaFhqlVxvjcchyE0LM&s"
+  },
+  {
+    "name": "Robotics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD94zgCJWkIKk0Ff2gjuB2IdCzUt7Y3g1_XiILyq6M-lJXAXw-G6nyApkVWCE&s"
+  },
+  {
+    "name": "3D Printing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMpoRDIWKNf01nRaQoWtx9V2UXPTtz2ehFT3RXZqWYoZL3abRbEG45lTAePz4&s"
+  },
+  {
+    "name": "Augmented Reality (AR)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSVSF7cU2-V4BbZnFDda5efFBJ5o6YRSmiSTaM_3q-Q8P4tVw4fjvO5Lbb-g&s"
+  },
+  {
+    "name": "Virtual Reality (VR)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdnIOxJnH7_-ukLHQdV-yKufJHrDr5W3_MxyGwEd87Fpeu4jEp4d2E-c2PDgo&s"
+  },
+  {
+    "name": "Cybersecurity Frameworks (e.g., NIST, ISO 27001)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCuG85nNv6xcW1qC4wkBLe59pGpx6ZGX2Z-vu3bvMqKZx4eqvCCnyfTrxPQ&s"
+  },
+  {
+    "name": "Incident Response",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTukfNQpC8ONJfUIHMTP1auEpbbrBwvw6PDk22cTYvPgBlwU2wnsmsck6_3GQ&s"
+  },
+  {
+    "name": "Malware Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWaJ8xLe2hPvQvuR4RNgq7wD-EjbqJrDdrHPGDZJOnJxF0IKeeEnyYy8EyQ&s"
+  },
+  {
+    "name": "Wireless Networking",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTED7I0PzzI-8p9jGaJNQZVfrgg7txh5N-_QoqniyGbqSz_-1efb66hv9vigGQ&s"
+  },
+  {
+    "name": "Mobile Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HNyYUfjC1f_aux6D8SYBkMd7f8ZRRITm2uln-5H-7yNa9_aKxOwfQ1wOFA&s"
+  },
+  {
+    "name": "Reverse Engineering",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZHFtQKdDf5TOhD5U2cwOMsnjgUz1gHLHf068oxGv4TgHVU27WKgiA-YfFQ&s"
+  },
+  {
+    "name": "Data Warehousing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstk_YW_M1erenPuRSJOcLhZXxE4WupmP8_e60SuV6F-KN-r76O5Ki_C8dS6I&s"
+  },
+  {
+    "name": "Business Intelligence",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ctjEtKE83z00da2PzY7DFlwn6RtlUX0krNqP0Rd32y2phm68HfUJA8kSsJc&s"
+  },
+  {
+    "name": "Enterprise Resource Planning (ERP) Systems",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvFtBBlawGNtxvJ3WWrTdmjA4FYs6fPLZKqx7Az3Rid-lrnpXXi_zvwCCRsA&s"
+  },
+  {
+    "name": "Supply Chain Management (SCM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Kz4azGyMcbKI_TEw5Z1FQ7kxoDupvUAOHbz96OeqSQ2uF4NWuLd5YWmRKg&s"
+  },
+  {
+    "name": "ITIL (Information Technology Infrastructure Library)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpbs0u0R_fYM3amRTEkkjk5UoBtuDW6VFM84FR09tH6xQ1h4qe_0-gR89G5yM&s"
+  },
+  {
+    "name": "IT Service Management (ITSM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctvPrnJR1TRX9GG2lWcbXTs7o34gSIOSEwQahfWZ6v1zTryIeeIh1KxOkdA&s"
+  },
+  {
+    "name": "Shell Scripting",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3BFeDBo3SFv0gYbF6i3W6rFlHpkcVAjD4jRXMbW8aqNsnFnsAGIgHabypiQ&s"
+  },
+  {
+    "name": "PowerShell",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcfPyWvgRKhVvA2ex682nlzpSLX8epjnPSYvbihMLcS3YfGIM82roiwemo38&s"
+  },
+  {
+    "name": "Web Servers (Apache, Nginx)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qoSp4GGQyijrt4xD3DWi1QvIzwFPrPihFQ-Q_gwqcIC5m-RS3gFHepawVA&s"
+  },
+  {
+    "name": "Microservices Architecture",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf7gP2YyjTrEkMnp6tXgMDntPeHEn5VdKVuD4V2L19fE0tNF2dDGLUQO0e0_g&s"
+  },
+  {
+    "name": "Agile Software Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_70Q0B3AgBt8hAP04KTe3dh-kKKMUcW2qGcuLtl3TGkX-t39TQhfbdMCyFI&s"
+  },
+  {
+    "name": "Software Quality Assurance (SQA)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_4PxFXJN3QOr7erfPlAMEVSk8a1XLV9gkSX9zwRVKo20qNLjjMsHzYI2Jg&s"
+  },
+  {
+    "name": "Test Planning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoCfWQmK1rSvGTzbL5A9kfceGCO_vKfDQmMClMH2GbtB6WutmSfHnYYkYXA&s"
+  },
+  {
+    "name": "Load Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2FY8BKvrQ732PBaA5fJ3Rs8o_hzSERq0gbQ176r2Jxo-HJpP-n6Uyce_yw&s"
+  },
+  {
+    "name": "Usability Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13y-ojdfIe4f1-EfPBOp7kZtlJbFPosASeqGYObnjudiY7JsSEXMy8IEEag&s"
+  },
+  {
+    "name": "Data Structures",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5q1bXs_Y06wulsTHXrcBZP-2BQggFw-7tevIIO6AfJqLF9-OC9X-dWxrfIQ&s"
+  },
+  {
+    "name": "Algorithms",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdO4EkvVqmBaQPiTePq_9Ijzai2Z0kx55jabdmNMJD0rEpXXf4iL6IvgHt2-Q&s"
+  },
+  {
+    "name": "Object-Oriented Programming (OOP)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAm6Bojf9hFsYz3kJyb3kdEZwP7DSC7UtuVH2wwB8G6b4BBlDuKX693lIQxg8&s"
+  },
+  {
+    "name": "Functional Programming",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobiuFxIS_DZQZSze4nJAVR50xPTtFnlkiSeZWfhlfimsxwwX9Mf6HxWuFheI&s"
+  },
+  {
+    "name": "Version Control Systems (Git, SVN)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd3R4P196Qp_h15UDZq49Wu_NNhPtoTGsD85nuIHzLZUzdotU7LXuckndNcg&s"
+  },
+  {
+    "name": "Data Modeling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-g_kaITjWN7A-H0LsEa0qDNb9i0tKD9AJC15zBDH8uA5D1A8HZSI1KvncA&s"
+  },
+  {
+    "name": "Cloud Storage Solutions (AWS S3, Google Cloud Storage)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrKMMdM2rwz8OENG_tUtDCeWEStH92Fh0jPrtnSeVVOKkYO1ash7deLV28mA&s"
+  },
+  {
+    "name": "Serverless Computing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQsvMgBhpYp7E8ef5IVS4K-_FfiKnbIxxvCCZVmtoXf8bxrm3TWvmVSX-cHM&s"
+  },
+  {
+    "name": "Containerization (Docker, Kubernetes)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZ0uki0W6LFqmpPOTvWKl5PR97kQ2FsiBv_87wfUzM-tLgl3sDEMhYQiqvg&s"
+  },
+  {
+    "name": "CI/CD (Continuous Integration/Continuous Deployment)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgOzeCXQ-UB6cjmEcbdhYDfZL84foNsqz9d9ss9zBk6oRcN9I_sduRodf6Ays&s"
+  },
+  {
+    "name": "Infrastructure as Code (IaC)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCnZWTDRHUOd8Lfve0Lly0y0jLa4K5hPZLec2fzmB78krKcYkIqwXT3KMpld8&s"
+  },
+  {
+    "name": "Network Protocols (TCP/IP, HTTP, SSL/TLS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGaQDRamNbK6wR8nfUzeg4T-vTyisqpU-414ZTHsrqMOrFgilfLeMIIfKXxA&s"
+  },
+  {
+    "name": "Microcontrollers (Arduino, Raspberry Pi)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdPpaNPs_uwp0QMAg32YjI6cbtT0PJ9bCWhOEvjJLvUVGY4J0ra1NW1YQW0IA&s"
+  },
+  {
+    "name": "Computer Architecture",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKOsU8GQLy5ne4UyJRu4GtTRuE3U9rrjvcUyJmabopVdNQYPZ0JbXnJ810A&s"
+  },
+  {
+    "name": "System Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEm34fUSzTYYp1HOYMjkKY1_CMQ_ZtjqEbcIWwSsxPRdZqyyJOmlm2Pnn7JWo&s"
+  },
+  {
+    "name": "Data Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6nLodCHCwlrsQOfOi45R1DIWlCxduRZGB6hk4rGyHU1Gdqhcxsyth-xOzfY&s"
+  },
+  {
+    "name": "Data Privacy",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdcNn3LObM0bwEz0bitNcVqR1ATQXBCVB91b-JJqKS_SPvH9ViI0keqaGOw&s"
+  },
+  {
+    "name": "ETL (Extract, Transform, Load)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd9ssOi7xeG7r6bE_c_cqWhENZSfFu4v3fZHOqoZ7aZbl2ykGtw1xj7rj0Bg&s"
+  },
+  {
+    "name": "Business Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2uM0HMGHsiEz-05t7N8XtlWsTg_F5ZC8sTnYULDH1H5vFkFNYlGMHoDkmxl0&s"
+  },
+  {
+    "name": "Requirements Gathering",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvoKX-uMba2ogXfRgbh3s1_0Ub3pj22MZ4ZgLil8fZn9I5OuN905Ru-mJ37nE&s"
+  },
+  {
+    "name": "Software Documentation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtlSPEYaz-H5NHwROyeHzGhw7ZR-rLMmUfqY9Ll0Z1j2OOVSOI5PqP_xhPs4&s"
+  },
+  {
+    "name": "Quality Assurance (QA)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJdrzc-W4DEN-dRt0A78VxXZLcdYEcsBffQ6AVDwR33v_BVmmlfaVIQKc_Uw&s"
+  },
+  {
+    "name": "User Acceptance Testing (UAT)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gAoJQqifa5BaJEZn42p4Y5miLcfTgOq0aU22oIwYyL82L9bHkggcR3DCyQ&s"
+  },
+  {
+    "name": "Scripting Languages (Bash, PowerShell, Perl)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJV_7sFyxQ0X7T8TPUZhgO5Wa4QIdibMRtwd9a8Baee4-aSKikdA4dVskyeQ&s"
+  },
+  {
+    "name": "Continuous Monitoring",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOBQ2ectCawUxpslobd5EjtItI74rZS79_NCkyc_bRoeWmaDI-l6ABG_flg&s"
+  },
+  {
+    "name": "Agile Project Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8iE4rWUJ_y4CElwtMBfRkQOZxXmy_vnSMvNPwbwTOuHVw_PuAPrFeFtqkUE&s"
+  },
+  {
+    "name": "Scrum Master",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Lc62riABuO8t8S6ZHlaRz6goCCx9FJJyV6V-O0OXAWEDEzY0hlhoWkun0Bs&s"
+  },
+  {
+    "name": "Data Cleansing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFUR9L6Swdvxx1fQwjLT4e2K5RlcGLATeEeRic5lm6vdOkEUtZruwk5XVVqE&s"
+  },
+  {
+    "name": "Predictive Modeling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKtjxnPN2Q2iCxvrK5sRimqlYCL8zBewsWb2YmDZQuj6OTRePxlR9iMQUWNg&s"
+  },
+  {
+    "name": "Data Mining",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09KSpzx1cpoZUHqs7VMpcZFS5ve-gc7YgrGr4za0ccBYtQ87Q0SapCt2Fiw&s"
+  },
+  {
+    "name": "Data Integration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOM_KZFKzq87un4IvZxWVYnajWl1VYJqu_j-fTEHnO8ZpB-lWbkfiC7CKWpU&s"
+  },
+  {
+    "name": "Natural Language Generation (NLG)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG36V29uXXxXyik2cprrSZZFmIhnSTPW8B_obc5Z3CFwn4Xm1VAT27VrCRnko&s"
+  },
+  {
+    "name": "Data Warehouse Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstk_YW_M1erenPuRSJOcLhZXxE4WupmP8_e60SuV6F-KN-r76O5Ki_C8dS6I&s"
+  },
+  {
+    "name": "Data Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6nLodCHCwlrsQOfOi45R1DIWlCxduRZGB6hk4rGyHU1Gdqhcxsyth-xOzfY&s"
+  },
+  {
+    "name": "Cloud Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgo80c16wH5OWBQrKxt0-39bP8C_cKsU1ZKjWKksBGlFZ3kwWAyV1U_7v9A&s"
+  },
+  {
+    "name": "Network Security Auditing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcupjpgQD6KybRqQFDw9XkVdl00R8V-JAwELAsw6Eqe0Ubh1vkypf8fjIAZA&s"
+  },
+  {
+    "name": "Vulnerability Assessment",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cEU9i5VOU3GzFNIKvxUN4xceKIl-Ji0dovQjT6BwyoD5b1CxkMqajX4fv0Y&s"
+  },
+  {
+    "name": "Security Incident Response",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6opddb8_O8OweMwY6eoAqqFkMSTd70sWiqVpo3fjw7Xas1ZNs255TKbscQc8&s"
+  },
+  {
+    "name": "Threat Intelligence",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyCam-UBWiOgVBISBub8V4XFaJhbkrAcm9GpNq0yqVu6LnOZvx5Lt19R1Fg7k&s"
+  },
+  {
+    "name": "Cryptocurrency",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABQZeR14xasuBqb8rXXHy4hb4NCie3zWEzs1QW08ied9h1aw2wz_iSQNjDNA&s"
+  },
+  {
+    "name": "Distributed Ledger Technology",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS8GHKgy7S5OqYxVLpm8YpMoQPOpRKhXNA4jgXO76WAwB1hCdsva-X6gNHJA&s"
+  },
+  {
+    "name": "Software Architecture",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjfdoMLq5Trf-IWBKUb3Lm064AqdLsDCzLSQoZ3zbJ8IOd6K8G8XR4J_Q0mA&s"
+  },
+  {
+    "name": "Design Patterns",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk17P0zFyELHI_0m8TkC7nWEmhH_ftWnm-2VY7qphCypjc8KbgtQhXvUPkI8Q&s"
+  },
+  {
+    "name": "GraphQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpK70nze8EQ7zk86NhmNfdALrVqPweYCnoW5AlkBkq4wiy0coaEUZ8-i4vGM&s"
+  },
+  {
+    "name": "REST API Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROuhdO6uub3P4hWeJUXrAOTvtwHCask5ycD1W-zSb1g-nJVb90A13MHSTa7Ao&s"
+  },
+  {
+    "name": "UX Research",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5cvMAUEHuQpbpwQijqF5shx-4L3VMa3wM083YYyiDVw5TY37sN7eDart9cg&s"
+  },
+  {
+    "name": "Wireframing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYKztJZ4Y1SR1BWKu6rUUvkum4NphcO5r-IWtNCapm2p0uETKM2pF_K5FxNc&s"
+  },
+  {
+    "name": "Accessibility Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcbzJKtRm6BTjhcztKYAn-Z5pY2khZhU3oFSF_vXDti-X_fY-mB9fmu1quni0&s"
+  },
+  {
+    "name": "Responsive Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwwSpNywsHuZQuC5zn1gQJDNIUmyXYbKYHhgOJ6xKhwbLABVeNmnBLHs8I4Y&s"
+  },
+  {
+    "name": "Cross-Browser Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT7ElqfPvSs6osWLUkZylqrZnRvUEeHq7QcrJnR2TuAz--_kJUkBbWAfROuyE&s"
+  },
+  {
+    "name": "Performance Optimization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9gYH7sp0qMb4C9sAwoQ53LFIJrD9em05kXEu2ItX0UTWqFzEoKZdwe-v4qg&s"
+  },
+  {
+    "name": "Code Review",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNF5SXUDaERakUT8C1wwSiK23_3UhYGMoUJ81t30shXbz2kHCLjQ2V5LeZLA&s"
+  },
+  {
+    "name": "Secure Coding Practices",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDOnQdcdYUEMYOdDUvo2shQnsWupmY9o3yzBUFBlxY2SUBlqsuSDpuFg6FA&s"
+  },
+  {
+    "name": "Virtualization (VMware, Hyper-V)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQv3OpaIAxnz453hN37vlYHBGSzpNfQo7sd0hiXHgfVUX-GIE39XBtsvrbg&s"
+  },
+  {
+    "name": "Web Scraping",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdaK3uN0bfCKNos7MZrbSKARrvSqMaH_1YsUDj1fHHd7TClm5wqL4Z5-4B_g&s"
+  },
+  {
+    "name": "Business Process Improvement",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRENiE2WJuucJASpPFUN0BhVjigF5xgKrBFydk7t7dKIkHc2Qyl6Q0jp5LKdaw&s"
+  },
+  {
+    "name": "Change Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjV-Qj8k-T0rGQxaUpm8_wlBX-I7czKFXRR9JNd5p5G8EhMGpZNneBR2Oyyg&s"
+  },
+  {
+    "name": "Database Administration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReI58p1o6rVjAtGf87m8d14cC7H-lCeEumXNQBYzGThWpXMq0a_sfwXHnHki8&s"
+  },
+  {
+    "name": "Disaster Recovery Planning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaC0iN4BUX6xVWlVNgEG8XAssHmxMCBdTd-ScvIEr1LwLBVIun3vAr0eLIKw&s"
+  },
+  {
+    "name": "IT Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRFVHQNBDwADyVBOQYK9ycHy14L9BkKU75TaXXCy_SG5FAm03XFKhK2F2AR4&s"
+  },
+  {
+    "name": "Risk Assessment",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHosE2aKTuWu5Ybf69phq6QEoqs_bvZzMaNxNAdp110STEkjIFcwLcNL8wKls&s"
+  },
+  {
+    "name": "Systems Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYI0rMv717en6jb1V74oAAyyjbVIRT_SlcJDDgLlVI4O80K9AnaPYS8JKQA&s"
+  },
+  {
+    "name": "Data Visualization Tools (D3.js, Plotly, ggplot)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe49cAggrsZJ369XzeaFUvKidSyehi_aKt2pRwhRJBHtL06x9VLYWJ2EEqhA&s"
+  },
+  {
+    "name": "Statistical Modeling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoo88U_bi-xX86iZDEZSlFj8xdNRP7oxS9PfaubsO0E2CxAl1mUfJBBT6cwRo&s"
+  },
+  {
+    "name": "Time Series Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJ9TYi4HlkYW4uGVZN6-BEsSJc-N3UuDk8coJsw_RpB9OUgIAGfJuWDwQLs0&s"
+  },
+  {
+    "name": "Data Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlpHOq1MWSim_-aW3qrt3_rNlJyhzRtc4Ovmg73kC-ffrr5PZc8mpBaDhLPJw&s"
+  },
+  {
+    "name": "Data Storytelling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRioJ7hmYDfCFszxVwLGvTLnStgSi1UknSnQ-tQ3D2s4VV0_UacZP3mTiNCWbk&s"
+  },
+  {
+    "name": "Social Media Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1dGMWIwK-yjN7Q4r13fETu0fEluwksTpBtWNMKLKLtc8uPVfnN-p_sz4ghA&s"
+  },
+  {
+    "name": "Cloud Migration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwchKAZhOFHhhJSvvmtqkcTRekvUwteSXaJTXGB_sGnbExmnRqo_dlWG4WA&s"
+  },
+  {
+    "name": "Server Administration (Linux, Windows)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pdazsSjf3QppMC291Rm3g0zuWeUd10GKMMVF8R-otvMSezLqNKEg5ckQuMs&s"
+  },
+  {
+    "name": "Network Troubleshooting",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-g6QVcCqAZAF4RLOGPoQfFXvQJnZILEP2CgdumeBFsJ2YnUNMx5WZPbHExQ&s"
+  },
+  {
+    "name": "Wireless Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOnhZhgN_C4yQ_yNi7WqShXorCndUMuKcWAwz1_co-t8pBz8oywc68_s2gA&s"
+  },
+  {
+    "name": "Intrusion Detection Systems (IDS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_1dlG4G9V_DEDiZaIRD9Hns3jazlXr1cQs6DsFgImay9Uo4Q_-lWDJYb6Ik&s"
+  },
+  {
+    "name": "Firewall Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyXlNa5vzRMRXxMCGCMa2h6f_av8_x42D7EPU0s0yzglvn2oRXEFU5DgiXoQ&s"
+  },
+  {
+    "name": "Incident Handling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTukfNQpC8ONJfUIHMTP1auEpbbrBwvw6PDk22cTYvPgBlwU2wnsmsck6_3GQ&s"
+  },
+  {
+    "name": "Digital Forensics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9XXizyTWwWm6asJs0e2RsNOAvqRquDmYp1lRbfk_el0osi_jpGNFiQ02MjsA&s"
+  },
+  {
+    "name": "Data Loss Prevention (DLP)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-SD9yteggT3f19c5vY_GEpgSB86OCB0JYU2pXNQMzf9iQrBY69VYG8t2uPE&s"
+  },
+  {
+    "name": "Secure SDLC (Software Development Life Cycle)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4e-FEU9aMzfPcl1pTOvQw9K-UNuOb75cISfwZJWbpOUTQ1g3Z5QfikgEFQ&s"
+  },
+  {
+    "name": "Data Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6nLodCHCwlrsQOfOi45R1DIWlCxduRZGB6hk4rGyHU1Gdqhcxsyth-xOzfY&s"
+  },
+  {
+    "name": "Cloud Architecture",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFyy-um-0Jlr6Ahx2rFLrS0366FZQsyBHRvTUcYQMbRB-sPwM6xUHEnVY4gQ&s"
+  },
+  {
+    "name": "Data Science",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lhf6qddhjbPY3set81qewLoBq0-rcV_vAA9G6KN0HkV3mAuhG9xtCqfBuMk&s"
+  },
+  {
+    "name": "Statistical Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXThZF2GXH6UaY7vXR8Eg1pBcHpN81y_E_M7B2q-6TtaK-Z26nnh8sR6tIcA&s"
+  },
+  {
+    "name": "Natural Language Generation (NLG)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG36V29uXXxXyik2cprrSZZFmIhnSTPW8B_obc5Z3CFwn4Xm1VAT27VrCRnko&s"
+  },
+  {
+    "name": "Data Visualization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8DKo4lJEValbOiU3RASUFo4_eONuGPix4b1YWtJ1krvN0IIFPDYVBakloA&s"
+  },
+  {
+    "name": "Machine Learning Algorithms",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5EIMVBH_zcECJd4SMvX05H8otQ_3Uq3xaugO7b56HmvLMdbtCOnOAbsvoJA&s"
+  },
+  {
+    "name": "Neural Networks",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfPYA27-7GlKqqafXxQNwIF6lyXH41gIPrAop5JAfjhDY3sqfSZWYsLksiafk&s"
+  },
+  {
+    "name": "Deep Learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqzzKnCVs8QPFwjNAI32Cxxwl8XIsi-N6ZFIOliVda6s-b7mnDNl-V6Cj70Q&s"
+  },
+  {
+    "name": "Computer Vision",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCz1nQdNFqiVKQK0VPLJdGxko346Ryt4XtU0yQ5NkFjDlhagDfUHHuABWyRA&s"
+  },
+  {
+    "name": "Reinforcement Learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZip2kr5TkqWUZDwGU2QTobAdMRoc6-FkpXG7MODcfR3n9RX8LMnjnxRjpjtI&s"
+  },
+  {
+    "name": "Predictive Modeling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKtjxnPN2Q2iCxvrK5sRimqlYCL8zBewsWb2YmDZQuj6OTRePxlR9iMQUWNg&s"
+  },
+  {
+    "name": "Time Series Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvSfe-L5qwiDxOHIxvIqklA2KTfxqaGYdYk5jFiA9o54L-PIVBMjZyE_7lXs&s"
+  },
+  {
+    "name": "A/B Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsrqQDy1NTCYq58isaGigBfio5fqn4W-3MHaA-rGE7FtTaNiitlZbk_eDTtE&s"
+  },
+  {
+    "name": "Recommender Systems",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LEM6UV4ftLdx8PAgC-V4kfUpfpL6Kh2yYMdmXmACmFyDNTaVoovdl4b6Ig&s"
+  },
+  {
+    "name": "Data Preprocessing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhK3RVK0pvj6F56eyQVVYDa_4yFlvg1SGgKPgXHv3RVdatqy-rZKprdmnth78&s"
+  },
+  {
+    "name": "Feature Engineering",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3dgKGwFrrMHIbYZolzuplMjtDxOdMsbLs6pubwwuFNf00pGPHCBPKijGhPc&s"
+  },
+  {
+    "name": "Text Mining",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKS2QILFEtKIAzfAzEQVNdXNwCVAY0zMahDZGdiEJ6XOu0oFOcGdKRNfRcVw&s"
+  },
+  {
+    "name": "Sentiment Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2FCSQhCXMAc3ujUfxrWL5psAHrcP9aswLss4XMfqL6dZeRlWBsDz4sxA3khE&s"
+  },
+  {
+    "name": "Image Processing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4ZRLXFI5mHdOnSxOtQ9QWvN8YiLBRaznATOyAyjNJ_jZ7eg__iPqlXlZLw&s"
+  },
+  {
+    "name": "Speech Recognition",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZEFQYQ8Dt_Ri8M3POoG4fVv_AAg3GQ0-8fywvkqRukK73gl0wA0NYaImeAw&s"
+  },
+  {
+    "name": "Chatbot Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjBb9XSZc76xkftWuEY1klfGX1lMCi91fUfyaqK18ARS7rNKgJjIgI_X3jLc4&s"
+  },
+  {
+    "name": "Virtual Assistant Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRudW1fJTP-4x2n3teGn5JQAdI_r5a80UMf4qY4WaKGY2ofFuuMOVUYQZNnOsg&s"
+  },
+  {
+    "name": "Data Pipelines",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubhzLIEU9c4k3qjCpiZS3GF_NGvL5LBrSVyi1kwKkMuK2CgxRq295pRE7Zw&s"
+  },
+  {
+    "name": "Data Cleaning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFUR9L6Swdvxx1fQwjLT4e2K5RlcGLATeEeRic5lm6vdOkEUtZruwk5XVVqE&s"
+  },
+  {
+    "name": "Data Transformation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZThzao1uTBXaoneKpxdmQcZ3K225o58oCse1_C_65aD3n6S0SFsqyfv-sos4&s"
+  },
+  {
+    "name": "Data Wrangling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EiTEGRXPpzV0RCriQF5Tz0bq5Hzd3gMSLy7f6CVKo2G5kzzdnBU2AIsv_24&s"
+  },
+  {
+    "name": "Data Imputation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcntQUNuiuk5rK8266_GRFzW5MCGd4K2egNpjZjrmg5O1-F1TKKPYRVVtOAA&s"
+  },
+  {
+    "name": "Data Augmentation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1bfLzbxzWhcHPNt6CWkL9ImsaCfIngVDQIV2Dhiu7wVb1VpD8jG0RRPMDLQ&s"
+  },
+  {
+    "name": "Anomaly Detection",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojTv0VsJR8mK12T-buBEp1zcQ8efeixVxZWkDMUCTurE-Roewru_08YFH5yk&s"
+  },
+  {
+    "name": "Model Evaluation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3I3neewB4-KDjLSH3-3AAs1A52cQtFDjajqWDtAKj1frebR2IFF2Nem4wKVg&s"
+  },
+  {
+    "name": "Ensemble Learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJtnkV1SlTgQMN8GUI_J91VhO4sTP4E6Ru_w0D5oMrrPEzfUxXLeYTnef6A&s"
+  },
+  {
+    "name": "Dimensionality Reduction",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvm_YifXTraaLeMNLA9eRR1ge1yh7y0pZ7I-fDhzi6SGXFVg9JiuWfULntiXc&s"
+  },
+  {
+    "name": "Hyperparameter Tuning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRMqpbjV4AnZms6uc_dyOh91Gj-zxYsK-39I49kdaJbBJiEbyvKeXfnxacA&s"
+  },
+  {
+    "name": "Model Deployment",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSIhZuljkA1IYc3nbeoSdL34zoeMibKd1mGoHRy_w87RYMqAWuF9HiCD8p0Q&s"
+  },
+  {
+    "name": "Natural Language Understanding (NLU)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNgTyRReMyAZ4tjXMmfb2O3x3EF9EmiiobBoRu8Opa-fDW07buUGk5uQdMzQ&s"
+  },
+  {
+    "name": "Data Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6nLodCHCwlrsQOfOi45R1DIWlCxduRZGB6hk4rGyHU1Gdqhcxsyth-xOzfY&s"
+  },
+  {
+    "name": "Data Privacy",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdcNn3LObM0bwEz0bitNcVqR1ATQXBCVB91b-JJqKS_SPvH9ViI0keqaGOw&s"
+  },
+  {
+    "name": "Data Ethics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mDqRqPa_NH9vXP74PvD3vpxIRuoVA8oq5RSwbaNn9391Ou6IDllWT2wUZA&s"
+  },
+  {
+    "name": "Data Compliance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8iCtB2Jm2ZWwjZ9pM83U2r58JG0voDLRxblNzuvnBOqhRcaCHSeHL_tTwPM&s"
+  },
+  {
+    "name": "Data Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft5pvYHB10mujSpBvP87nJqFz41NZDoe6zI5ozG4ZpanNd1NDPZgTBD9FqgY&s"
+  },
+  {
+    "name": "Data Cataloging",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkwaDv4vhq_KHQjrbAY51oIOtoPoCgPuxRt6kjFiupWXbMTaZ88FLe-XQN0M&s"
+  },
+  {
+    "name": "Data Lineage",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TS45CMP-JWy5EQ1CRRgCzYCl-CDpXqaW8x949O_Nd-2ynnfI6AgPZZtxnIQ&s"
+  },
+  {
+    "name": "Data Access Control",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2_MMT3YooQnVAzjUW23Qx2MqDNVoitAKnMQKqa0vNaDZ-4y_iczdRZCgsHuU&s"
+  },
+  {
+    "name": "Data Masking",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXSjjUQWuUQY1B1sR5r0zyQs8EO1wzQbHRJFiX_q9-V7Hqvtotg65gc1WKWVA&s"
+  },
+  {
+    "name": "Data Encryption",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFwbmKX8-fFk0WehF9DdeEt4avqArSqQBbHmCSZ6-_MR7ESpWdmlKwAAm4w&s"
+  },
+  {
+    "name": "Data Auditing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1c385_283E28_KOALzrEwNZ70WMAJJvyAB74fXTuvM8roUX-cA6vsc1E1e5w&s"
+  },
+  {
+    "name": "Data Classification",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVL_oxbCWySu-8aREDlVLE-ahMxxy_XSBpQQT8OBkNgzmXgASpnCn-rpKnAko&s"
+  },
+  {
+    "name": "Cloud Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgo80c16wH5OWBQrKxt0-39bP8C_cKsU1ZKjWKksBGlFZ3kwWAyV1U_7v9A&s"
+  },
+  {
+    "name": "Network Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiV1rZsHSjWRCLf5qFHdSb8wkoaQXw2ylrAWD6uay7rVs1IM242PPui3pmg&s"
+  },
+  {
+    "name": "Application Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7dNWKiS8v0j9ShO7081mkycPcDPFETGYaEym_ZOqX5lrP1VTPNMvrihp&s"
+  },
+  {
+    "name": "Identity and Access Management (IAM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgUNa_id_XWHAtKthnmynySgTc3mPkCxkZlHr-idsoGVhRHfoH6oTSc9nGjQ&s"
+  },
+  {
+    "name": "Security Architecture Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLDDeDLqvOFoXy_utcbTbGL3IQdvibPA_LnBFNEcvOOcazJMbQvG4SeTaHA&s"
+  },
+  {
+    "name": "Security Risk Assessment",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsEQo6ylyprH2pAEAUAKG_d1UG6t4p4d-m3wHkJhRM5eWxfklqyuiDsm4PLOM&s"
+  },
+  {
+    "name": "Security Incident Response",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6opddb8_O8OweMwY6eoAqqFkMSTd70sWiqVpo3fjw7Xas1ZNs255TKbscQc8&s"
+  },
+  {
+    "name": "Vulnerability Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4K6R6hTm5d6Tg2RTDspJ5mXf4TFj45MAyG8LpgOYhKTpd7Qv-so0INtddSA&s"
+  },
+  {
+    "name": "Threat Intelligence",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyCam-UBWiOgVBISBub8V4XFaJhbkrAcm9GpNq0yqVu6LnOZvx5Lt19R1Fg7k&s"
+  },
+  {
+    "name": "Security Awareness Training",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLaRPNY1a5zOlD8j8Bb6hEwrP24jJxWfRWgy1twa0aOlB3T024tWkM9I1Lw&s"
+  },
+  {
+    "name": "Secure Coding Practices",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDOnQdcdYUEMYOdDUvo2shQnsWupmY9o3yzBUFBlxY2SUBlqsuSDpuFg6FA&s"
+  },
+  {
+    "name": "Security Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JUEgo8eGRdwxdWqy5VVMnWySk-75HLxR-CwoI4StnSs22cVvDBezQ-e_8Q&s"
+  },
+  {
+    "name": "Cloud Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-XADCG8xsP2h1MIYIVYyJFqieyKi6ivuJiYLC7VdcxSUnkPUOWq7plHhzw&s"
+  },
+  {
+    "name": "Cloud Monitoring",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47EL8FbijZsVgwZNy88HQgrbQghzRiCCmnw0BrbEnfCYuW0pPrv14LN286l4&s"
+  },
+  {
+    "name": "Cloud Cost Optimization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRzOP535UDWm13OsPzeuS6VgN9BF_v5j57Uvo3TJH3JMUu6nGuchq2mFzNw&s"
+  },
+  {
+    "name": "Serverless Computing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQsvMgBhpYp7E8ef5IVS4K-_FfiKnbIxxvCCZVmtoXf8bxrm3TWvmVSX-cHM&s"
+  },
+  {
+    "name": "Infrastructure as Code (IaC)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0sSKxEO8lwpfmPHG2tP5Gk92Y8F3vdsNKo2zgQqnzppsgdFsLWCzD0FElw&s"
+  },
+  {
+    "name": "Cloud Networking",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMb67vlU7PJy17vf81aUfDF4Xa69FE9OBEqUq3R60wq_jPokUSx0QFWpZ5og&s"
+  },
+  {
+    "name": "Cloud Storage",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu6b5gmodulkBBgGDt8Tjo9EN4OdRUn4ddYq2tRS1MZ3qkHT7U8NKjVAXotA&s"
+  },
+  {
+    "name": "Cloud Deployment Models (IaaS, PaaS, SaaS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1US3xj3GO5wsyBMS89_wSDyT-kI7k1yRq1Dm3Ou2JjYa9thAIBbv3gOJ6Yw&s"
+  },
+  {
+    "name": "Cloud Migration Strategies",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzBOlst3z6PXqMyGyWxxSpwGp3AZ1LqBw8mYfXd2Q5SC1bhc6ZyXHtDWAk&s"
+  },
+  {
+    "name": "Server Administration (Windows, Linux)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pdazsSjf3QppMC291Rm3g0zuWeUd10GKMMVF8R-otvMSezLqNKEg5ckQuMs&s"
+  },
+  {
+    "name": "Active Directory",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPeMbL7HGkZxIiVgLPoGSlxuHaSsn5eS2BjgIBvbxl11BBA5daltMvaMUyA&s"
+  },
+  {
+    "name": "Virtualization (VMware, Hyper-V)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQv3OpaIAxnz453hN37vlYHBGSzpNfQo7sd0hiXHgfVUX-GIE39XBtsvrbg&s"
+  },
+  {
+    "name": "Network Administration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDRVynZTUoH7K4I3rpoqrUJ14uwSuiTmwW-2XYrCcSY6yr3pVXcWGecc2e2gI&s"
+  },
+  {
+    "name": "Network Troubleshooting",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-g6QVcCqAZAF4RLOGPoQfFXvQJnZILEP2CgdumeBFsJ2YnUNMx5WZPbHExQ&s"
+  },
+  {
+    "name": "Routing and Switching",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU928sW3pCWZm7okCWogbeY-smdscfBAoL7OrNVSPqM8MdkZvTVUyT4k_Mow&s"
+  },
+  {
+    "name": "Network Protocols (TCP/IP, DNS, DHCP)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGaQDRamNbK6wR8nfUzeg4T-vTyisqpU-414ZTHsrqMOrFgilfLeMIIfKXxA&s"
+  },
+  {
+    "name": "Wireless Networking",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTED7I0PzzI-8p9jGaJNQZVfrgg7txh5N-_QoqniyGbqSz_-1efb66hv9vigGQ&s"
+  },
+  {
+    "name": "Network Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiV1rZsHSjWRCLf5qFHdSb8wkoaQXw2ylrAWD6uay7rVs1IM242PPui3pmg&s"
+  },
+  {
+    "name": "Firewall Configuration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxnnDHDVjBbXb84Yz5NAcOKndkQ-Mhjvvo61iStGS-fSmZXH--uFyWTjyonQ&s"
+  },
+  {
+    "name": "Intrusion Detection Systems (IDS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd_1dlG4G9V_DEDiZaIRD9Hns3jazlXr1cQs6DsFgImay9Uo4Q_-lWDJYb6Ik&s"
+  },
+  {
+    "name": "Virtual Private Networks (VPNs)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-EFG3cIxZjKJsraA5DfzDxzHSL0xg525Ckf2NzDwhRtAqFEoXX3bonH2Yd4&s"
+  },
+  {
+    "name": "Software Development Lifecycle (SDLC)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsPlg3SUk_wvlVyttA5SMG-Do6U_4hyUaQF-mM7Nfo8_DkrCwjYIHnEXnuQ&s"
+  },
+  {
+    "name": "Agile Methodologies (Scrum, Kanban)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7111unAqbMKvNbAGZn0rHfOzdU-vMgeiuX8j2_WA7vSZlGYku7qaCHSCkWKw&s"
+  },
+  {
+    "name": "Waterfall Methodology",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzdpQuTLbKiJ5tIUX0ZtQnMCMeWOHICMxX45WC2LiAIBZuuRf-ig2DTejz_Zk&s"
+  },
+  {
+    "name": "Test-Driven Development (TDD)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AQ-ODdL5XwTYACk8qtiVVzlrk9jkSkVGtRAya_ijqzomhHvnbnnDUHPV57o&s"
+  },
+  {
+    "name": "Continuous Integration/Continuous Deployment (CI/CD)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4BH7cy-Xxf0lRly1uK_yjLqNabXSePjPu1A5fMTxflDuWeabT81OhGRnxw&s"
+  },
+  {
+    "name": "DevOps Tools (Jenkins, GitLab, CircleCI)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gwuDOB27QGuKRhG_n2kRNQhpV2paDsI1yWlkyAaHHWyZ4CebY0pMVoetYoE&s"
+  },
+  {
+    "name": "Configuration Management (Ansible, Puppet, Chef)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5NyZT41rbaEHUGbaikdykGPkYCeZmnpPvbWfA-mZjqwbG0YUGalpI3wPsw&s"
+  },
+  {
+    "name": "Containerization (Docker, Kubernetes)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZ0uki0W6LFqmpPOTvWKl5PR97kQ2FsiBv_87wfUzM-tLgl3sDEMhYQiqvg&s"
+  },
+  {
+    "name": "Microservices Architecture",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf7gP2YyjTrEkMnp6tXgMDntPeHEn5VdKVuD4V2L19fE0tNF2dDGLUQO0e0_g&s"
+  },
+  {
+    "name": "API Design and Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqjeUB8Va6OUlm8IkUzg-Qtbq6HnWgYRZF42I3AuSFhIGQ7d1KaBy7ORVVQ&s"
+  },
+  {
+    "name": "Web Services (SOAP, REST)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL31CzfMA2R_zsu6pKiJRFVR2FNrys4-Yps9x1WzUBQncoWsIYWskpkpSFobg&s"
+  },
+  {
+    "name": "GraphQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpK70nze8EQ7zk86NhmNfdALrVqPweYCnoW5AlkBkq4wiy0coaEUZ8-i4vGM&s"
+  },
+  {
+    "name": "Message Queueing (RabbitMQ, Kafka)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-MpzFdmRyxtvbrdpplbTcPDpnjFuEBL98BDGBvWhJb-zZDzqV3bka7cO3DQ&s"
+  },
+  {
+    "name": "Event-Driven Architecture",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxrl3ANprZVf06ppzmUYQSFsflLP7CV-Kfkv4fNfMG92LHjyUa6e3-a5MpOJw&s"
+  },
+  {
+    "name": "Serverless Computing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQsvMgBhpYp7E8ef5IVS4K-_FfiKnbIxxvCCZVmtoXf8bxrm3TWvmVSX-cHM&s"
+  },
+  {
+    "name": "Performance Optimization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9gYH7sp0qMb4C9sAwoQ53LFIJrD9em05kXEu2ItX0UTWqFzEoKZdwe-v4qg&s"
+  },
+  {
+    "name": "Load Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2FY8BKvrQ732PBaA5fJ3Rs8o_hzSERq0gbQ176r2Jxo-HJpP-n6Uyce_yw&s"
+  },
+  {
+    "name": "Code Review",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNF5SXUDaERakUT8C1wwSiK23_3UhYGMoUJ81t30shXbz2kHCLjQ2V5LeZLA&s"
+  },
+  {
+    "name": "Code Refactoring",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4jKFJylkE8NvOyZebok4me84tIqtWQMrhN_QWk-OfoJr_7Rv_t90rSD9QIg&s"
+  },
+  {
+    "name": "Cloud Orchestration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOfLd7BFf6evySMqFbiGumO88aPRzbp3joLbaxamWmTCIeXDI0Gkd1WBgmdQ&s"
+  },
+  {
+    "name": "Serverless Architecture",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoElyRmnRpNo-E7ghtCKgEzM0Iefbn-SumRSK-pPyJ3iMoKklm4wVWlo7bNY0&s"
+  },
+  {
+    "name": "Serverless Frameworks (AWS Lambda, Azure Functions)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxEnYUE4KiaE_4YycGUb_konWyEYJV65DFdJgUMZVLFwt-JJPJAk-y3-0S0Go&s"
+  },
+  {
+    "name": "Data Engineering",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqVjVec8X2s0HoL5tDY671pdr-JQqzMJ4nB7TH5Lkkh8s10gQ9lRUIq-4m618&s"
+  },
+  {
+    "name": "Data Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6nLodCHCwlrsQOfOi45R1DIWlCxduRZGB6hk4rGyHU1Gdqhcxsyth-xOzfY&s"
+  },
+  {
+    "name": "Data Streaming",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0te12B1A-6bfRBTDhnqNNAEW_D29SiFog7l2QS5xVYVwddI7lrjYrLGmxw&s"
+  },
+  {
+    "name": "Real-time Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ZVY_W1BmbtrUzm-BDJNxcitxp9yAqAuAIqKYVU-ff5Vov1az9yot-t8mEg&s"
+  },
+  {
+    "name": "Data Lake",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5QWhfHZMUCc2T3lmcY9kV2Dh-J3T0ZoQTi8u6oNBqRHetuRh8PziV0NVPA&s"
+  },
+  {
+    "name": "Data Warehouse",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstk_YW_M1erenPuRSJOcLhZXxE4WupmP8_e60SuV6F-KN-r76O5Ki_C8dS6I&s"
+  },
+  {
+    "name": "Data Migration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nXpR1TSv9TyHlAP_24AiQOkQSTuaviuNIvBa77zVcRbRzQBmrvDPTzDSAj0&s"
+  },
+  {
+    "name": "Data Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6nLodCHCwlrsQOfOi45R1DIWlCxduRZGB6hk4rGyHU1Gdqhcxsyth-xOzfY&s"
+  },
+  {
+    "name": "Data Cataloging",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjkwaDv4vhq_KHQjrbAY51oIOtoPoCgPuxRt6kjFiupWXbMTaZ88FLe-XQN0M&s"
+  },
+  {
+    "name": "Data Lineage",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TS45CMP-JWy5EQ1CRRgCzYCl-CDpXqaW8x949O_Nd-2ynnfI6AgPZZtxnIQ&s"
+  },
+  {
+    "name": "Data Quality Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjh7DhSJX8LQ1Ex2_PXCzcfp4D1VSdjkUF5oG8oBYqzwFaZLSiyJXfbBMqPA&s"
+  },
+  {
+    "name": "Master Data Management (MDM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQs36xdwoJhLsct25XDOpML3KIhHM-DRFhCTqmuQtKnqP6Byo03aU8P2cNA&s"
+  },
+  {
+    "name": "Data Privacy Compliance (GDPR, CCPA)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7V72pi9WEvm6kcV26QdQZGb-VtKa2SaQTlHNDl2qAd9nJ65lohoOB04Mbbg&s"
+  },
+  {
+    "name": "Data Ethics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3mDqRqPa_NH9vXP74PvD3vpxIRuoVA8oq5RSwbaNn9391Ou6IDllWT2wUZA&s"
+  },
+  {
+    "name": "Blockchain Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-fyly_EGvvpnDecxHDHGNC2a8Qgsc0ma3a4nXlmYtMpKMEj8Ly154Z2Osw&s"
+  },
+  {
+    "name": "Smart Contracts",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSwz3LdH6l91baoAHUXHyc7ril1U0NI_BKtvi63QyUpXuAKnQP5GiPiCFthU&s"
+  },
+  {
+    "name": "Decentralized Applications (dApps)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzNDhXvrqj-w4m_49vj_dFoPW2ehmHkpLhsH-8ZMXzV2wug6ArlLmAr_u1exE&s"
+  },
+  {
+    "name": "Cryptocurrency Wallets",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHpEqBwAfZkAeGBeXAFl6vyMJtfMKZyKJyCVrPyI00TBx43cRMYlvHPn69SA&s"
+  },
+  {
+    "name": "Solidity Programming",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCOw14b3WJYHcriqCO7PpiLMDd0qvRPQqJF49pYMtVVpYdnsDdAci3MJexjg0&s"
+  },
+  {
+    "name": "Hyperledger Fabric",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEgjtxB7OD65xXVzuQae7kSCtJEpOwAai93w3Q-gfmuKqMfZDBv9G8-myMUw&s"
+  },
+  {
+    "name": "Computer Networks",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGar4lAV_QQM5cGLxQ4HLkLYwS9_bScmjjyt0b1z7vlIjZwex0VqzzksXWDg&s"
+  },
+  {
+    "name": "Network Protocols (HTTP, SSL/TLS, DNS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGaQDRamNbK6wR8nfUzeg4T-vTyisqpU-414ZTHsrqMOrFgilfLeMIIfKXxA&s"
+  },
+  {
+    "name": "Network Monitoring",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT21gT3h-q31TSFywE5DybUXqh7EMix49UGfuu7FBigqpmYtg_yw8D_xbuw5g&s"
+  },
+  {
+    "name": "Wireless Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOnhZhgN_C4yQ_yNi7WqShXorCndUMuKcWAwz1_co-t8pBz8oywc68_s2gA&s"
+  },
+  {
+    "name": "Network Virtualization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9rug76HO8i4bliCI4U7CgyAwRf5e-e9J3hTJMGSD5gIyZjZ1L9WYZsCATg4&s"
+  },
+  {
+    "name": "Software Defined Networking (SDN)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDmIOZA5ESLW6B7wx8QI8Au_QYwDMjIBW_BA1OQySh3b3jWy7O6YARtcMOw&s"
+  },
+  {
+    "name": "Network Automation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3xriYz0paWb9OB_8QC7Ev25enzjJ7N7e-BxaV-78upFrZ-mp9XrWa_-lpfg&s"
+  },
+  {
+    "name": "Firewall Configuration and Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTciiG1rzw4CU9tmgC2VdvZST2g5ZjCJnOU_aTjLnZchzVWuxgEkcvpBxgw&s"
+  },
+  {
+    "name": "Intrusion Detection and Prevention Systems (IDPS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw6hlmDlWIciZ_E84unPQMot2iH9FYHLv-H8azbb1ejea-5Zx3o8nvW5wKF68&s"
+  },
+  {
+    "name": "Vulnerability Assessment and Penetration Testing (VAPT)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoXiaiBWP3YGOoYSRY9qIib0wAXKQMuH1sAZPLdHH5HSZmSbR8qEb3RoL7baA&s"
+  },
+  {
+    "name": "Security Information and Event Management (SIEM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_CeLEqb-XPdG-oha35Hr7SEn26l4EkKuXint0pvPEQuBmDzmq7yrxyYoRG8A&s"
+  },
+  {
+    "name": "Security Incident Response",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6opddb8_O8OweMwY6eoAqqFkMSTd70sWiqVpo3fjw7Xas1ZNs255TKbscQc8&s"
+  },
+  {
+    "name": "Security Auditing and Compliance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcupjpgQD6KybRqQFDw9XkVdl00R8V-JAwELAsw6Eqe0Ubh1vkypf8fjIAZA&s"
+  },
+  {
+    "name": "Security Risk Assessment",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsEQo6ylyprH2pAEAUAKG_d1UG6t4p4d-m3wHkJhRM5eWxfklqyuiDsm4PLOM&s"
+  },
+  {
+    "name": "Web Application Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK4tiwUrWdnLA542t78zr2uGFCdOw6G2k5GoQdD3vdbritbPAcPzojzhwxnlM&s"
+  },
+  {
+    "name": "Malware Analysis and Reverse Engineering",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-Ly8bWlX84XAotvHn85erOWAhORRJvBgvpu_VAL-862Poc9g1NAbfym-ekM&s"
+  },
+  {
+    "name": "Security Operations Center (SOC)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzAN6XKcUfokJFayyfgEmbm-0vzTnrNgR2iN4LXsGMZwF-esuZwYDjKj-aIrI&s"
+  },
+  {
+    "name": "Cloud Native Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKJZIJ2oM1wO3JBooKDV-kUGgCYqJGIpfxicbW-OorXnm_ebZtyQKcBkZNKQ&s"
+  },
+  {
+    "name": "Infrastructure as Code (IaC) Tools (Terraform, CloudFormation)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCCd64MRPRKIuzXdEAbEYyNQiCkJcFOpB0z_3SGk-Qxr8wTQGaQ8FstPfo2A&s"
+  },
+  {
+    "name": "Cloud Automation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehZ2JZwQowM7_-cIOswLR59ZmzdIv1kQMYJU68r_kJJ6VfDvq9jAoDlf-hA&s"
+  },
+  {
+    "name": "Cloud Monitoring and Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_mSKkxrtEW6qqHfpAzZ9DZq-NOoZjl4g-7U_Pa6M4jnqBQB8TPahqjq1ONKA&s"
+  },
+  {
+    "name": "Server Administration (Windows, Linux)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pdazsSjf3QppMC291Rm3g0zuWeUd10GKMMVF8R-otvMSezLqNKEg5ckQuMs&s"
+  },
+  {
+    "name": "System Administration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTU_YTs9fpq6pWeMjUeWoSTCpxZH4xaOxWT9lCQyo3LKRHPNOgs-YPOeqHw&s"
+  },
+  {
+    "name": "IT Service Management (ITSM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctvPrnJR1TRX9GG2lWcbXTs7o34gSIOSEwQahfWZ6v1zTryIeeIh1KxOkdA&s"
+  },
+  {
+    "name": "Incident Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTukfNQpC8ONJfUIHMTP1auEpbbrBwvw6PDk22cTYvPgBlwU2wnsmsck6_3GQ&s"
+  },
+  {
+    "name": "Change Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjV-Qj8k-T0rGQxaUpm8_wlBX-I7czKFXRR9JNd5p5G8EhMGpZNneBR2Oyyg&s"
+  },
+  {
+    "name": "Configuration Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDReOj07GAVndYtEAII0fb3rhVILZykjcot3N-qzdR8JK0SDfCs2IVBupI18A&s"
+  },
+  {
+    "name": "Performance Monitoring and Optimization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodJOoZu1AW36mKU_IbscvhgCNdwUhWvqacBymdabOSONVNy2Da2XhsS_FYdY&s"
+  },
+  {
+    "name": "Database Administration (SQL, NoSQL)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZZG6vsiQk97UVjn8Uve-WLZ00KD0wihPy5dcJ2rZTtSHgP_MyvIKsL6YeeLk&s"
+  },
+  {
+    "name": "Data Backup and Recovery",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-DuiUUWel0nYz92VFNtVeYaHfCLVGqyUdPiPvxLYkMlvpgFD5GA98MV_xg&s"
+  },
+  {
+    "name": "Disaster Recovery Planning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaC0iN4BUX6xVWlVNgEG8XAssHmxMCBdTd-ScvIEr1LwLBVIun3vAr0eLIKw&s"
+  },
+  {
+    "name": "Data Center Operations",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPFgR6sBSzq-daF1_-kJ7AYvXxSyCmTOREy5N5wtvKPS4JI0PsDOegfhhVOg&s"
+  },
+  {
+    "name": "IT Asset Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8x2j7xMEzDxRkJOsjjgxWJLfLPGaY9BtM9QHHqYWp42RNbiqNBbucnsxUg&s"
+  },
+  {
+    "name": "ITIL Framework",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMb0DWtpKh5v6EbTT5v_O-twmI2QsLR2_w_2EFmrn6alLM8mr46OLqr95q4Pk&s"
+  },
+  {
+    "name": "IT Governance and Compliance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX_WSrYrukimpQY8I6V3YL87Z8qYa0osAg6Atnf56AP-Ofx4saiYQWdjLLDZk&s"
+  },
+  {
+    "name": "Business Process Automation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHdhL-xl_p80g4MHKrCn0h1fclN2OCmftbnILkDJwVbcJ9IHgYynPrjUeHiJo&s"
+  },
+  {
+    "name": "Robotic Process Automation (RPA)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3HTLROJGyx7XOi5FXUKlNNrd8ltfyMj4w-KlSyA9PffgygTIEkcpVuApteA8&s"
+  },
+  {
+    "name": "Natural Language Generation (NLG)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG36V29uXXxXyik2cprrSZZFmIhnSTPW8B_obc5Z3CFwn4Xm1VAT27VrCRnko&s"
+  },
+  {
+    "name": "Conversational AI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYpsDkvRpRDIFNaZ0tcLM3ywQ7fryhNalw9rOqONFetiNcUYeVnaWGIBKdF0&s"
+  },
+  {
+    "name": "Speech Recognition and Synthesis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_i5gE5Gy9MmBeJnnBVbBwiFun3ZkMju5x4BK1lK1NzwXZKXi2MiXRRGgdE7s&s"
+  },
+  {
+    "name": "Emotion Recognition",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBD3xT-zSolrKHbRTbSNu34uFC4CJoW9jrQYd8z_juRS0evy9Zsf0rml71PQ&s"
+  },
+  {
+    "name": "Image Recognition",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBvfX1zdRceHVK22mcwxN6KHbuOjpugg9lKAdHy2VfRwQUJCQoXjW6dQ08A&s"
+  },
+  {
+    "name": "Reinforcement Learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZip2kr5TkqWUZDwGU2QTobAdMRoc6-FkpXG7MODcfR3n9RX8LMnjnxRjpjtI&s"
+  },
+  {
+    "name": "Genetic Algorithms",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNANOVMfD-qxVKSNZc79Bcuumk7jLzCH93tvY2bVQZgtNd9Yp9LV9ycndeILs&s"
+  },
+  {
+    "name": "Data Mining",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09KSpzx1cpoZUHqs7VMpcZFS5ve-gc7YgrGr4za0ccBYtQ87Q0SapCt2Fiw&s"
+  },
+  {
+    "name": "Recommendation Systems",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpvCsIyeHYj7-iLfnNto1YaCAWFhbVRW3OT1COJs05D_lWUhCY2RVY7yuNuw&s"
+  },
+  {
+    "name": "Text Classification",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiuT_wYmRWAZF9PvQyTedgGCyMiYtnJ-t-sFGVXkuWzP5TXwhZFYXRVbWjGg&s"
+  },
+  {
+    "name": "Sentiment Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2FCSQhCXMAc3ujUfxrWL5psAHrcP9aswLss4XMfqL6dZeRlWBsDz4sxA3khE&s"
+  },
+  {
+    "name": "Fraud Detection",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvi6KuHdtAneGQ2cjWfGrxmrq6Lnt1Nj7jVFxpa3W__zBe2v0VZG-xOoxyivs&s"
+  },
+  {
+    "name": "Marketing Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFrtIK3HmdyWVxnZ4iNJ7HSQt7BD-g5G02fKF-gRbsEh9-PoQ-cTisULTsg&s"
+  },
+  {
+    "name": "Predictive Maintenance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwNOvrHTSlBQ0jBAOgTOMFnICqMzQnyAGwlU8N_aft1pSYW2Qu1K_X7f0lZg&s"
+  },
+  {
+    "name": "Data Wrangling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7EiTEGRXPpzV0RCriQF5Tz0bq5Hzd3gMSLy7f6CVKo2G5kzzdnBU2AIsv_24&s"
+  },
+  {
+    "name": "Data Visualization (Tableau, Power BI, D3.js)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe49cAggrsZJ369XzeaFUvKidSyehi_aKt2pRwhRJBHtL06x9VLYWJ2EEqhA&s"
+  },
+  {
+    "name": "Statistical Modeling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoo88U_bi-xX86iZDEZSlFj8xdNRP7oxS9PfaubsO0E2CxAl1mUfJBBT6cwRo&s"
+  },
+  {
+    "name": "Experiment Design and Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXN7hh51Ivwrt8i3RqQ7O6g7RVmPCb7-SaoO308ZEWlrydXb7ycBeMZ0_noZA&s"
+  },
+  {
+    "name": "Data Storytelling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRioJ7hmYDfCFszxVwLGvTLnStgSi1UknSnQ-tQ3D2s4VV0_UacZP3mTiNCWbk&s"
+  },
+  {
+    "name": "Agile Project Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8iE4rWUJ_y4CElwtMBfRkQOZxXmy_vnSMvNPwbwTOuHVw_PuAPrFeFtqkUE&s"
+  },
+  {
+    "name": "Scrum",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-jsRcN0oSSc7zh9Rb6EOJv69hFll-us2pcBYLpfsQvkFcrFZmzkusLIj9g&s"
+  },
+  {
+    "name": "Kanban",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS_P73BdCxIxiwQzthS3mCoYNdLFlNWTU_nvuWQLT1agpXiJ4hZXZSnmL9pQ&s"
+  },
+  {
+    "name": "Lean Software Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjMZwDSgQzvrkmYjeBxi_IaTAGCxQ5jiTYx1BkRS6TqhGYnUvjKjlt8nWpQ&s"
+  },
+  {
+    "name": "Requirements Gathering and Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5OLOlPaRKwfyAsQYqjWb7iaDAtSHGchiM5APgC-F3wpmy5Db1H2DhZCZ3A&s"
+  },
+  {
+    "name": "User Experience (UX) Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKu1srti4CbTe19mLJlvUYOocWtHVIfI98JnjUyjBQZSiulC_5vSWD46WmLw&s"
+  },
+  {
+    "name": "User Interface (UI) Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8v0KZzeWiR3bysSb-of3nodYS2N3eZyJVNkRVALC1pQ9Tf4XCNrLlBR3ZDA&s"
+  },
+  {
+    "name": "Wireframing and Prototyping",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9GE3a8L-KDQydatwgR__8NUKIarHOaXsswbcLY4Z0sdIvu2MNz3WYRBLbkuU&s"
+  },
+  {
+    "name": "Usability Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13y-ojdfIe4f1-EfPBOp7kZtlJbFPosASeqGYObnjudiY7JsSEXMy8IEEag&s"
+  },
+  {
+    "name": "Responsive Web Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwwSpNywsHuZQuC5zn1gQJDNIUmyXYbKYHhgOJ6xKhwbLABVeNmnBLHs8I4Y&s"
+  },
+  {
+    "name": "Mobile App Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMd1y2_4dpkCL3cg8_JmxZMfBxqwu0QJ3wyzJbCMZPYrz5S2BkxTeiWhZwr8I&s"
+  },
+  {
+    "name": "Cross-Platform Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRjX2LgW__3qqgNXAASE9BS2VnQI1bYuoRJb836LE6D0mTrMmNewtLcoTAkQ&s"
+  },
+  {
+    "name": "Test Planning and Strategy",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ1XNnPtIdoJlEBcVwwkKcpppBIxc-BkTYuLR1GryPlyLL8CnixaYxNJ1hg&s"
+  },
+  {
+    "name": "Test Automation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2FY8BKvrQ732PBaA5fJ3Rs8o_hzSERq0gbQ176r2Jxo-HJpP-n6Uyce_yw&s"
+  },
+  {
+    "name": "Performance Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzWDmSriiW3nZm8qChxrum3IvqDYoieRvC3tnBFrjt2nhqhh7DmM3eiXuFwj4&s"
+  },
+  {
+    "name": "Security Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0JUEgo8eGRdwxdWqy5VVMnWySk-75HLxR-CwoI4StnSs22cVvDBezQ-e_8Q&s"
+  },
+  {
+    "name": "User Acceptance Testing (UAT)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gAoJQqifa5BaJEZn42p4Y5miLcfTgOq0aU22oIwYyL82L9bHkggcR3DCyQ&s"
+  },
+  {
+    "name": "Continuous Integration/Continuous Deployment (CI/CD)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4BH7cy-Xxf0lRly1uK_yjLqNabXSePjPu1A5fMTxflDuWeabT81OhGRnxw&s"
+  },
+  {
+    "name": "Version Control Systems (Git, SVN)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd3R4P196Qp_h15UDZq49Wu_NNhPtoTGsD85nuIHzLZUzdotU7LXuckndNcg&s"
+  },
+  {
+    "name": "Agile Tools (Jira, Trello, Asana)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8KAsdOSWHZHhXeQ4he3loHuV1LS0ZbvmN4_NVPn3lMqx9oeFYbGoxSzpnVA&s"
+  },
+  {
+    "name": "Technical Documentation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3HwokDeF8IPeYALvUs-NKGK1Ivuxsu0u3FXX-1eaI1ml2Puyln_9xjxjjA0&s"
+  },
+  {
+    "name": "Jira",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwH1cOnvs1J1rhcEXS8jGnTVr5aGI3Q4IucbrGa0YE5ypii0Lx7XDP9Gl5oVg&s"
+  },
+  {
+    "name": "Confluence",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFXXHRFHYHpbdBjkR6oHmw1VFATop51Jw13O-lvMJl5u_02Fb3-Z3CEDSDg&s"
+  },
+  {
+    "name": "Trello",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7KQIVUMjaHM2mai8NbksNnGioNGsHBosUWP22af8xtH4S9y5AFy_NFO-SOA&s"
+  },
+  {
+    "name": "Asana",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXIVTL9-0ZFm9CFTMP2R2U8Ns_gC7zhHPs4NlZ-REwwWw08-8uoumxkDiDQ&s"
+  },
+  {
+    "name": "Slack",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJwCwXtjbyKRraTV1O-2FNalGtdHBAk5ei6nwzW9MBwQ_BOfoK5tXc4erlyQ&s"
+  },
+  {
+    "name": "Microsoft Office Suite (Word, Excel, PowerPoint)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0OpYnAdysKS313Wfp30kW1xzcinu3b6rLhRCVh7wtvjT0x1NWYsUhPTaZNk&s"
+  },
+  {
+    "name": "Google Suite (Docs, Sheets, Slides)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTSkHQvzgILxsYm72iiB65Hssmcx8Yckli5sa3_R_dJIr5sY9huv56mV969g&s"
+  },
+  {
+    "name": "SharePoint",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDqGZ7Z1RO32rteL6WA3IUeIiJzOnm_b12jK0eatWEFTePyCfXmu8x-nOlDM&s"
+  },
+  {
+    "name": "GitHub",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQleicaiE5aHlmR3dNjfPXdxYFJfO5usOhBesu2PoLtLVqyjp7vbc8c4AEgPQ&s"
+  },
+  {
+    "name": "GitLab",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemQFWZB-mfncmYXXNwMG4bwVmmwg73tHG3nb-PzAxpj4Nv8F8BzWm17Zl81Y&s"
+  },
+  {
+    "name": "Bitbucket",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0roZ2YBxInDvdes6-8KgMEez2ijre1mqqBMdvcX4EI6ED1JDQlct0LV65ghk&s"
+  },
+  {
+    "name": "Jenkins",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-6oFuxsfllZoUf9NsgE7_OmjxMFoGU0u5v-b6ssouPM7JQNlAdErMck9NEv8&s"
+  },
+  {
+    "name": "Travis CI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTuQUNdszZATJWlljRx1yjhgxsfLChOW8uEL5oa2Q1SWnIzsr6K0hTSQ2HQ&s"
+  },
+  {
+    "name": "CircleCI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArvVA9LfNTHGM6Hj4Nmkp_8SbtpGNxz--YYIzuhb4eDrCYZwjS65OI5_EHA&s"
+  },
+  {
+    "name": "SonarQube",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vrSvjM0_Ou79FNMniLLfZjntKKo21wyIfmZhFpyrb2pdEgVoRQ3I8YiHyA&s"
+  },
+  {
+    "name": "Selenium",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCz5dZQEcu4dKSAgwibkpaSeaD-X1elinR0UcvBUmHGoEUV5G1HChepd1P8sE&s"
+  },
+  {
+    "name": "Appium",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtXZfCIsDqH1pJ0hvMNbzATD7Mj4Qr9FtOy777BjKdFYmUUh1DbsnJlq50Zg&s"
+  },
+  {
+    "name": "Postman",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNplkjfzYQicj2SvpVnR-Mb1Z2Zf9vk7zugRr8YcZN6by5MKtxn53jUZsuKCQ&s"
+  },
+  {
+    "name": "SoapUI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwkRMvzwDdtPa_Yjo3adGozSVZo9GoieUVR8oT9td2lu_9ciV6YUWnH5nMkIw&s"
+  },
+  {
+    "name": "JUnit",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1nRYRSEiZ_VToxxA2rCx1HAwnwtbML8Wi9qpD5AcaknwxC5EbBZdWvhLzZA&s"
+  },
+  {
+    "name": "NUnit",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqlJ7xjO7BMT6PVYD7LA56ULXO8YH8FfuNre7X1SBsVXLPNzuRNAcThKxUpBw&s"
+  },
+  {
+    "name": "PyTest",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSS8187HDGWVlmiqP13-59SmPGhQc1RX8l9cUYLEsaoRd_Zdbe1jNsU5Nwlc&s"
+  },
+  {
+    "name": "Mocha",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jK4Wj5im2rPD2h-HADLZgNX-DU899qmmxmizDOiIch3O9vvMGQMUdZwsHA&s"
+  },
+  {
+    "name": "Chai",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScq-8uRByztl_0xJ8l0rXwnoilJFioDOcaXh5zBFlhxZflbaqIfktWY8uKA&s"
+  },
+  {
+    "name": "Cypress",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8GM1VLzHtWHDuGEjy232-j0Y4B7GvlcXZeewDLykXw3nHZ0GrQXXjLoR5i8&s"
+  },
+  {
+    "name": "JMeter",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfj9m_GN0xLsREP5v8TDwFRnKCJdlEiZ2y5aTftngru4uqXNLEBNRcU1nb96g&s"
+  },
+  {
+    "name": "LoadRunner",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAq6Gqevft6qMt_e9jzNA3VeAUEogGolum-ZM257hYTVdh0lLS8-C7iJ2WLuc&s"
+  },
+  {
+    "name": "New Relic",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpwDs2pXALPSnMRh6affYae0SXKVLhOrG8NFrxAYbMU7YvSyzPPKPZwKpyg&s"
+  },
+  {
+    "name": "Splunk",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3YYp6_CuKQJGBBe5AvhLVPpm4cqUQK3w0dgRHpgjP6kxmR-8-B2Lxf1fjQ&s"
+  },
+  {
+    "name": "Grafana",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSLZTtO26J8_4OgkaSe_BsO-lJLdebi-pkIaa6rYBY3x-RiReVWHoTdU5nPQ&s"
+  },
+  {
+    "name": "Kibana",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Hpo6CO2KPZv8Ulzu0TViVpx_wyMi9YaZ8gtyk-H7sVaxlGFYRwuMhdR0DG8&s"
+  },
+  {
+    "name": "Nagios",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXkoUWsPDAckGZZhOQpOOSS_nM5qzAlfzV5WcDrdnrcST1aKZlUl4oUQZ87Q&s"
+  },
+  {
+    "name": "Zabbix",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcMfJpSU3j00SF8-qhztrH14jO-e2DNV0kyAvPoScLi14Qgo_Ps7sYRPg4c0&s"
+  },
+  {
+    "name": "Wireshark",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD32ZxMba7GGw4tVxvuPtQYEJI1CaVCqTFqZ_ePtWCDmrtLj6Fe42bdESH3A&s"
+  },
+  {
+    "name": "Burp Suite",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHBVTi742XfotY7miHDtFy8CuvC4Q9vdt8fZVHtVOWraZ1femXKBxJKfUXM0&s"
+  },
+  {
+    "name": "Metasploit",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhXgl2KbtQrbHUo0iDNroZi-MLtY7DQDW0Y5PI9vBhz9mMPGwlY3TUwtHmA&s"
+  },
+  {
+    "name": "Nessus",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAnxhajRVE0hZSGlifxwDGRPxOCgJanH_4CeZb1o2h2rHN7jbZ22k1H2BZA&s"
+  },
+  {
+    "name": "Qualys",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCT6qASG5qXOrQHyHWN-mc6ESd4pNGGsRF8BnnB3uimV9ER58o_zztEy3YNw&s"
+  },
+  {
+    "name": "Snort",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAUX35UzNSV7tbbVIvKV48oxbt2MmMaXbNuXF0NBAYToMoPjtbYPrrJz3UUrQ&s"
+  },
+  {
+    "name": "OWASP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJdc6jqH_cY2gU0t-Q6sE8qKhzp81Uzc_4gQu1mt8dslOGZfAzlLFqyQv2A&s"
+  },
+  {
+    "name": "Wi-Fi Analyzer",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjv9jMRFd3iQ9OECo4E2XOBzotIX0UKMosZCApZYN5zHOfnAFBtMolPaP7g&s"
+  },
+  {
+    "name": "SQL Server Management Studio (SSMS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy09LOoY0C8j8BKkZGRuXjKdneJdHOpL4X66N6EMYpIsYCbhohchKL6cLTsKY&s"
+  },
+  {
+    "name": "Oracle SQL Developer",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgg4UVcUp6yZbjAdtzTWQgLweRvlbbvJUnUcjN5QTJCtCFnBbMLVy2O2VB5I&s"
+  },
+  {
+    "name": "MySQL Workbench",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABItSl_bZx3zjXhURQgIsPK8zejm2mJsFQptGGECd7qczgztDQ3fp6eSF8g&s"
+  },
+  {
+    "name": "PostgreSQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8fA9aHBou5sGhn5r07MkLT7N5Ec5afToFKBylV75mhtE5gIA6Zdc1xvep8NI&s"
+  },
+  {
+    "name": "MongoDB Compass",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3TXcxiMAupMSP5mcKwAYtnby3o-cTX9BTLnlgDpvxIhyo3v7oKdwm7fSEQ&s"
+  },
+  {
+    "name": "Apache Kafka",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuaguu9rYenbe89d5r4D1JDyzXU8ObBKV3et14eGM7wzSa2rrgc2pOXQIDJA&s"
+  },
+  {
+    "name": "RabbitMQ",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKnO0sCXax6TkL2cO3DZ6fSz3qqxvs3x6GGyeh5R-ngPkmQz5aZ8vZURVYho&s"
+  },
+  {
+    "name": "Elasticsearch",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA1nCG2bkrYB4BSiq1YK7MJcGTocD0R0JgyfSIiqleJ4RLP7fUtGl_Zh8DLhE&s"
+  },
+  {
+    "name": "Redis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgzPnR550H1x7Iql12wECtqASPNWMM5J6jUFKb45wljtWJqWYxN-JXqYxUQ&s"
+  },
+  {
+    "name": "Docker",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEH3eqC4Uz0YjEXEVnTGZmicElI7c1QgM9ZdGWbgLBk0UePF2X1LI9gmdP-8&s"
+  },
+  {
+    "name": "Kubernetes",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSptdMin46FDAcKJCyJqHs0lA0u6UMjw7JnFdHk0-XhTcPetk5nPskaNMg2LA&s"
+  },
+  {
+    "name": "Ansible",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqrfCwi1Vo2KJbjrcRgznXBy4AvLJDgouKH3bXHFlthGJfLqsKa5I2gC6n66o&s"
+  },
+  {
+    "name": "Puppet",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPg5rker8nebukhMpBa5jkMDL9hRqOeIIpoodySmY--GqpKozkuhOBTFmTDk&s"
+  },
+  {
+    "name": "Chef",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyzZTTry97N0RoCHXsENwPVC_K_3XExxZDOzzb-31cxkVSBbsPAn8jjTXug&s"
+  },
+  {
+    "name": "Vagrant",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6bpIrpNnmnkFSZjCeaTJmIQA5___jHDLGxLjpap1P_P6HEpqZuSQs6LFEw0&s"
+  },
+  {
+    "name": "Terraform",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzCnbrQ7dHy9Kmw0wq6ymjeKx-0IQajj8wASe1uzVKxLIA0cl5JZID9lDYQ&s"
+  },
+  {
+    "name": "Amazon Web Services (AWS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBw4GCL1soARkaXGUD9iJMmllqHkFgA7SGhC2U4ZBelw2L4cvkGBinjvJZg&s"
+  },
+  {
+    "name": "Microsoft Azure",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6HGm4hU6c0YDx8RDjF30Iezk4h1-9aQdgljuPnkzQXCQYT37l89pDthb3x0&s"
+  },
+  {
+    "name": "Google Cloud Platform (GCP)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5smaxns2eJUoh7Fnpi5priyNAAIKoWxCiBS_94KeXDyEyJ8pocezoZFXbJE&s"
+  },
+  {
+    "name": "Microsoft Visual Studio",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsf1h3ygH0Qi4wwUc8fSpjx_EG8Ym-pfza-6I74TBR1n0hklZ77KnT4sio-w&s"
+  },
+  {
+    "name": "Eclipse",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSousFafrw4g8LuvLhdKcHCtsd_PwNN4YP6Jis2lAhLlwiDl7NiVDfxC870zg&s"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMwtkrprrx5EjPNa6I0UYeDFXeFqkD9O9YkfVWqAoIGAp6MVQFB6aArB-GAY&s"
+  },
+  {
+    "name": "PyCharm",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVgZbuEsllLmoeG1_yLVoHI7fsWsks9rRuUdD8rdfDM7vN--Wbyhm7TyM3g&s"
+  },
+  {
+    "name": "Sublime Text",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndrhDtBYcGJqr_fd4VHKK6xBQN4I8DJgmqTlBxsIiHF23gmtw1dFgEFYyGEo&s"
+  },
+  {
+    "name": "Atom",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOqCI6DBp7FMQP04RXMBi1zBKEuPBDF4dilUFBFcsHZaJFuiLZnRZ_kiBGmg&s"
+  },
+  {
+    "name": "Visual Studio Code",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW_zauH9Cj0p2-o6BGz_UNMvfa7IVJOY_RoXX1VS8vIQQ_TF1OT1ltowXCZw&s"
+  },
+  {
+    "name": "Photoshop",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopI__1L1VXFMia1-2avuGFsZXEdveTiv43Q7-bZLe0HK6Q5S7RaRFU3iqqmg&s"
+  },
+  {
+    "name": "Illustrator",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nR8hwLsy1hY1sk_YDlru_c1AhFLB9FX5Oz47iGlTuOPaqM6RZn13BWlnDQ&s"
+  },
+  {
+    "name": "InDesign",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJp96HgjnI441Jw20WesLPBvBQ3w94GOaQ6OGJfzy-6JRDF_okY7_AGHPP-w&s"
+  },
+  {
+    "name": "Sketch",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMQW5HbY06ODPC1eVsfCG90L_1mfFDb1HeIPEE7vQBMnTC4wPumZ8jNOCXfI&s"
+  },
+  {
+    "name": "Figma",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmU23OPDClCvcAdlhL_oazLIJMfGHBDkXeIYoN9dX_ZvP5pveduWeMC0-LFA&s"
+  },
+  {
+    "name": "Adobe XD",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3EDeNb9rXqOGwUDwQ0h-IUET8nzIcCzYeX6Guron2zVjJk-eJpY7aRfV5h2E&s"
+  },
+  {
+    "name": "AutoCAD",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMyxiedZyG3aV1fkNpdvRQF7Uy59u071-2iSKzDD7aIlBbH9z5cU2spJTPZo&s"
+  },
+  {
+    "name": "SolidWorks",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTb8ISchTLOYUZZlXW81DCLAg87Piu3zA2HgD6GYbrrAnvQXCjaOnlCS13lI&s"
+  },
+  {
+    "name": "MATLAB",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ukI9j_djaiWP0pSr9YwCkprAyhHhSCwUy2Mxa1jExpwfEb2AzOqyQeFgXDQ&s"
+  },
+  {
+    "name": "RStudio",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Fm9VKrQAhHAURF9IaikJnJTrNdTbTJTRUCnQeKRTd4BOe4ALDgsggBYhRjs&s"
+  },
+  {
+    "name": "Tableau",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFV8b3do0ZTvzHpmVZN_gVl8u2k4Mc37f39xy9cSlNx-xu2XhF2BviciqATY&s"
+  },
+  {
+    "name": "Power BI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZE1iOWzNuztLFb7XshaSC56Z9mYcplcUykO5VR1l7QELGgtBOuBk91ENvqA&s"
+  },
+  {
+    "name": "Google Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd8GE3ijwQ8jBO7Q_4ZplkOYH3hcZ8Vh-EXusbMUaNgL5D6_j5IJwiyLAUHHs&s"
+  },
+  {
+    "name": "Google Tag Manager",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhAivzVsiyghyi9im7IwRtIuEmmCp_GyZ4UBGYOQ3JCGFstB1GA6_FRjIQW4&s"
+  },
+  {
+    "name": "Adobe Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIRqRXY3-iqmIRJ_L9uRqLhEWsgmwoJjA5u7qi2mdkvFxeAffmrvMXpi_Gnk&s"
+  },
+  {
+    "name": "Salesforce",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfjHrLYlMKjmJky01xxzEv-FajjvQ8lVjRd5-lC7EYzMjlMs-EtiCOdoh8zQ&s"
+  },
+  {
+    "name": "SAP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjvNdQw8bGvMBbiNx2c6y0zbHMhrDbGpenNHSrBlK_6EVTXuk0pm1qemb-g&s"
+  },
+  {
+    "name": "SharePoint",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDqGZ7Z1RO32rteL6WA3IUeIiJzOnm_b12jK0eatWEFTePyCfXmu8x-nOlDM&s"
+  },
+  {
+    "name": "WordPress",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDuIT7VQAKgC5ZWnstWDDW_yJFigOefK-ZU_bhi7gwXb7f4iiYS-raS3i4w&s"
+  },
+  {
+    "name": "Drupal",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLTd7wdjXC44iPPw8WvE7pzB_tymoSISJDO1MAlTQh0iv5OC9K-9BFFz1Fn0&s"
+  },
+  {
+    "name": "Magento",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThKSTbRTTHQuE6KPbBVacsIoW-KfdgZkxV9pOZQGgxB1zmz0Mj37OdTgItyQ&s"
+  },
+  {
+    "name": "WooCommerce",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9f180UXBkMu-xSGVl9DRjRz7GR10_N3xcFHdUnWqRf_hybJe2XC5TTD4S0Q&s"
+  },
+  {
+    "name": "Shopify",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRw-tfDKpRm9oYfJvJKZVFcHdyCFF59k4d9B1VVkG9uftB3ooqOHgXjbijhk&s"
+  },
+  {
+    "name": "Joomla",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSka8z_VCcAE3KZJfMP9v4SwWepSX5MLzo-BmY9u2fSbYmsXwkA5GO1JtPapvs&s"
+  },
+  {
+    "name": "Apache HTTP Server",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHAiZvxfH-S8_9l_vt-wwuSxa9i0OIVRyeyPe3fitW5QV74JOsR6kehewWg&s"
+  },
+  {
+    "name": "Nginx",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfLvrLS2mV228Tc9DlSkT3SY43i02ILSGryWpcjfIO1M81rJYiJJ-E4cadiU&s"
+  },
+  {
+    "name": "Microsoft IIS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SJ-UUhpqeKKAgR9uaPPtHs9-eD9bPkAsuUPcE55qF_HQRk8A-hHEGdT5XaY&s"
+  },
+  {
+    "name": "Apache Tomcat",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAM0pbJEWL7uCf2lbeYxvoBPnSShWpIFHq9OX8ByQgL7XEKub6gFwuY42Nw&s"
+  },
+  {
+    "name": "Express.js",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHaPHR9S2cST2V6R4v-poYmZZrjkOZnhgFdHkfMfEmYg1ODa7USNpqGECLuVI&s"
+  },
+  {
+    "name": "Spring Framework",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrBcFSCI9UkrBU61Jv9z2GDULbt2xnBe9lD3n1c229vSsWoKNkym9XRU8aA&s"
+  },
+  {
+    "name": "Ruby on Rails",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUt0bsHQcudxXbHXcbSgvgj2otYCxGCA8-OsgcdSt3cpcYmX3iBM3UpNWU9w&s"
+  },
+  {
+    "name": "Flask",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugICzYGGNKglaqIV3y68obW20adiynAIOv6qbZMnOAjLN02tK3XrGofuNUWE&s"
+  },
+  {
+    "name": "Laravel",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2IeeF0HIs4c_VXbxEBfN-UHn0K_1WjLivzgehbf0prqeHYbOU9JrO1FWL6Y&s"
+  },
+  {
+    "name": "Atlassian Jira",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNSxQ6w7hY3me2jaixBTqRqSnwz45VlB5SJKsV_2uIV6-D65RvcAIFtX7QXzo&s"
+  },
+  {
+    "name": "Atlassian Confluence",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFXXHRFHYHpbdBjkR6oHmw1VFATop51Jw13O-lvMJl5u_02Fb3-Z3CEDSDg&s"
+  },
+  {
+    "name": "Basecamp",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJhmSIXL4j1DfDkD99rkXtchIVRnW_voyhlBTag9LCWByLrdbWb5HCroeWQ&s"
+  },
+  {
+    "name": "Microsoft Project",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdAAzRItyq-Cg0UWASdcIUyfqgCLOaddH1pl-bXtVAh_IIxESQOd3Li4G-A&s"
+  },
+  {
+    "name": "Wrike",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-yRt9PWk5QA94ypbiZTFEfbmTypbF6AKKSxkUe1nKxEkNgem6nhXaTyDMOk&s"
+  },
+  {
+    "name": "Zendesk",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1ujMVcNPDD25cdjs4EPt01JsCeyff179C24TsXXEDKVSogMPvSaQqY6ZzA&s"
+  },
+  {
+    "name": "ServiceNow",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVJ4kAwKh8XUT37BOKG7rYsa1ElNFaHieF85fbsztByHfgdVpnMRfgxCAuyzE&s"
+  },
+  {
+    "name": "Monday.com",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbq5Ij84EU3cg09QRF9egZAoJgxzV40KSBd6_F3Mnkx5-uWcvlb-W2wKbpbwc&s"
+  },
+  {
+    "name": "Evernote",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf4COkQ7cRh9R1-LnrlFiSU9aaSUL-k0Jv-4TnrF_HKpp1-YTt8ogD9vWDI5k&s"
+  },
+  {
+    "name": "Dropbox",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNY95qS4D-GZzdz9_Dfn3MO_bfXs2UgCRQkUCuIBWckvqTiL5t8DiVpx-oQg&s"
+  },
+  {
+    "name": "Google Drive",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMyHI9XSS2IOfHz3RCBO4XpfKwKUUn2yu4eW1pKeEDG5YDvDIJ_2j7HTD7A&s"
+  },
+  {
+    "name": "Microsoft SharePoint",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDqGZ7Z1RO32rteL6WA3IUeIiJzOnm_b12jK0eatWEFTePyCfXmu8x-nOlDM&s"
+  },
+  {
+    "name": "Git",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PdCk0jhFaWyC226E6EHa9ne4cuG_gjS8Ihr99oJ3xI5yFJWsE836PFdSTUA&s"
+  },
+  {
+    "name": "Mercurial",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuzaQPt9s72i2-f3_38Y8DpcMxHDs47IaNNThk404-WVRo5250DOccGGYbEWc&s"
+  },
+  {
+    "name": "SVN (Subversion)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr5txCvYnQzR7GCqm-IQbavgNUnBBGGDM25gpgGBnlm_WVEuMogqKZpA5h-MM&s"
+  },
+  {
+    "name": "Perforce",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGc5gQ1w_aprfKKIaJBIDTt5amAgn1f2fju_x8E5WF8I-k_CCIuOFJl0ByA&s"
+  },
+  {
+    "name": "Artifactory",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWNIUNTF4uDfuI5kYsZRZiMfYdwXTQuoXeSe0p-jS4JYqA3aLr8guUvXcOyw&s"
+  },
+  {
+    "name": "Gradle",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3a-R-Xd0wVWbDU8w2FxdZ5e73mAbpa9sFaMH8HMSSvSweKFk4VFlPgRh-ow&s"
+  },
+  {
+    "name": "Maven",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1PfGYfidTfwKRADcIFcexTqcOAMARVelJU2JVv4MS1HfXAQfpRouPUV-fUw&s"
+  },
+  {
+    "name": "TeamCity",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk5C6W3kx52-2eHfjoA1gFfsV-v1Dk9Z-6YJ9w1H2FJkXnZydG2VwBl79HOgg&s"
+  },
+  {
+    "name": "Bamboo",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9D3iguxdTZCLsjyw1K-BE1k7kBtcpo-9Qr7d8bsX7Jeh8Z8056Tbd46DECQ&s"
+  },
+  {
+    "name": "Bitbucket Pipelines",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAYdHkhQWzhn4l2NAvIRzcvomyHdXJ5fwv-BnjFGpl9YH-U9QDIaD4qD6kBQ&s"
+  },
+  {
+    "name": "AWS CodePipeline",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Excnzy9siHsO7t13c0sl4rvZv4mweryoHVCUUevUuJ6nRoMbgpMxE21EAg&s"
+  },
+  {
+    "name": "Azure DevOps",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sEcz2sbgaEYot7fjjkWrkcGDSFjF-Ifo8ZHyJHRga4qNqwSosyAtFl-ZFw&s"
+  },
+  {
+    "name": "Selenium WebDriver",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCz5dZQEcu4dKSAgwibkpaSeaD-X1elinR0UcvBUmHGoEUV5G1HChepd1P8sE&s"
+  },
+  {
+    "name": "Cucumber",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcpGmNNe9brwTnudDrIuKKc-YjP-q-IF5DkcSgJNuKZha3oe6x19wFCaGsg&s"
+  },
+  {
+    "name": "TestComplete",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNYnL3dpPF07G4pmKG4ds0pCdk753jy_Zyh0YvCwFvXOfI9MzpivjYD4wtMA&s"
+  },
+  {
+    "name": "LoadUI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTlLx_0uXrlgEz8843yCSXdhVjogzGHrv_WXsKO-CaB0pHUPxfH51lcuMDawQ&s"
+  },
+  {
+    "name": "LoadNinja",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ZAfgr7w5tzCKcTQoNV_MNG28ueyEugFUnvwTtw2ZTSe17NElYE31RIHCNQ&s"
+  },
+  {
+    "name": "Apache JMeter",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfj9m_GN0xLsREP5v8TDwFRnKCJdlEiZ2y5aTftngru4uqXNLEBNRcU1nb96g&s"
+  },
+  {
+    "name": "Gatling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dKFyy9yfQmbzY7t-bbKdKFop07TdiFfv7k3T1MTpxDjgsJx_vqJe55aCHcg&s"
+  },
+  {
+    "name": "BlazeMeter",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLhuQ2vQoVTTpf9VjBx1N749Zkos_uvyosnFDHhwhO94oDt4VUAh00qAUODA&s"
+  },
+  {
+    "name": "AppDynamics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRovJhAvfPsuZYBwF4OuaFzbUgqf7AsVU_s2gGJHSt6xO9K-5jYPWAQDpzdJ4&s"
+  },
+  {
+    "name": "Datadog",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpqgBwNBNKM0Pe9UsBM61s3KwzWNI_5ngCOUcmQscR3UQC-Ttuwdsz2GOfA&s"
+  },
+  {
+    "name": "New Relic APM",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpwDs2pXALPSnMRh6affYae0SXKVLhOrG8NFrxAYbMU7YvSyzPPKPZwKpyg&s"
+  },
+  {
+    "name": "Splunk Enterprise",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN7UFeI9gZ3iUVgbP3LFBjJNOGA-P7T9hDxfV5ytWTzVgz8NZGo5lsVNXS6Q&s"
+  },
+  {
+    "name": "ELK Stack (Elasticsearch, Logstash, Kibana)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77fCXgNcgqIhFkuLKQXIpn18Dlf2s6Ohk-TBFQDz5ELCBiSFFd_mroteZzHA&s"
+  },
+  {
+    "name": "Graylog",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXafjPrws-nGXhg8ThwphllwVv3WF0r3xBZR2Dgj1Zom1PDrRE-PPB_ENGhg&s"
+  },
+  {
+    "name": "Prometheus",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDOfyst8reoT_ANFM1IA4Tfpm5kkpzwu6AD9h9VIVD2gfafZf6SkMmjFn2g&s"
+  },
+  {
+    "name": "Grafana",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSLZTtO26J8_4OgkaSe_BsO-lJLdebi-pkIaa6rYBY3x-RiReVWHoTdU5nPQ&s"
+  },
+  {
+    "name": "Nagios XI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7o5_lBIUS6rpxxJg4H-nsgoy_v8nQBAIIc4DNPComvBEPJiL_UEWmyuBfA&s"
+  },
+  {
+    "name": "PRTG Network Monitor",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWMZ405Qk4yWbuXseJDMojrpLAHv4SqwvU8neeDZ88mC2izIOyNSfeZUD7Yg&s"
+  },
+  {
+    "name": "SolarWinds Orion",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqMgNuP71qCJyeE5I8BdB478an99hMFx1UdT0kYSIAPr8NSA7JR39oQPVyg&s"
+  },
+  {
+    "name": "Wireshark",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcD32ZxMba7GGw4tVxvuPtQYEJI1CaVCqTFqZ_ePtWCDmrtLj6Fe42bdESH3A&s"
+  },
+  {
+    "name": "tcpdump",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1AQrTTqk55VeJ7yjBhLFCYr5uW3X5uA9r49KXfeoBqpadkVU23_HdzaeVQ&s"
+  },
+  {
+    "name": "QualysGuard",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6tgfzCciiRGTstlDz2Meq_ftmz4A6A0rSQHW0ylQ3Tg9qLJ2JV2mSPEYSGtY&s"
+  },
+  {
+    "name": "Rapid7 Nexpose",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCO-foFnRBCfmpYlyVgv94dTvOkMgKW-hMJmAKynkHIKoS7LcP7s5zJkOAAKM&s"
+  },
+  {
+    "name": "Fortify",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlW_WAl9RDCbjSFKkXPuFy_QKQQGsUN9Nw7EGiqigGzswfNcc3RdxZjVX8mbw&s"
+  },
+  {
+    "name": "OWASP ZAP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDMZUdwyMSz2zXyXvbD2W3rae_BfcoY2f4R0ei-FH8QxWOzGfpGoSIq2ZHL9Q&s"
+  },
+  {
+    "name": "McAfee SecurityCenter",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNUnyMe7I42L00yMK1w4Xgd6pKycRY56JLXcl4nj4eRQ5gyd2Kr-7pBMCmfA&s"
+  },
+  {
+    "name": "Cisco ASA",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1gU4ajEPLB1NcfLNqrVwKiPdAZgcAY6AbfiCR2P9zP11mWsGrhBaMZ9xMy2g&s"
+  },
+  {
+    "name": "Palo Alto Networks Firewall",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7DdqZR6AKU717vCA1DAaWn6QVRM1d7wPgPntn47uNiVx8vx_JqFSilcVeOg&s"
+  },
+  {
+    "name": "F5 BIG-IP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPex-bjyNPBp6XrErZPkg8adD02L_5V-eVG-30IG_LOlvWRjpjuzBl7kLdQ&s"
+  },
+  {
+    "name": "Snort IDS/IPS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtu3xLsJAmLYm6ZFx0qdCe6CXw31uMJ4CbbD591KJRGeI70SB1JahViVVSYXI&s"
+  },
+  {
+    "name": "Imperva WAF",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_67TwKfOVzU9r5TxqE2CijjidZn2cVVdtKdtZXkHHdLkl-rA6ApcBQMKIHw0&s"
+  },
+  {
+    "name": "Nessus",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNAnxhajRVE0hZSGlifxwDGRPxOCgJanH_4CeZb1o2h2rHN7jbZ22k1H2BZA&s"
+  },
+  {
+    "name": "ArcSight",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS34GMJ1hg000ozyduonOYj4tPQIZQOzxHNX9aXHnc246a7GI2XXFS-zLxvbA&s"
+  },
+  {
+    "name": "AlienVault USM",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZjO7ijQdpKhFHRWsQFBqtg9XdIBE8dKeTBLyN_bYR-bjDT0axzkffDszXCM&s"
+  },
+  {
+    "name": "Wi-Fi Analyzer",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjv9jMRFd3iQ9OECo4E2XOBzotIX0UKMosZCApZYN5zHOfnAFBtMolPaP7g&s"
+  },
+  {
+    "name": "AirMagnet Survey",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4paMaTS87xf3vYJaGk_x4QaxLVfTtCN-cIMLvfva77UwjgQ0m6ILgKZRFtUg&s"
+  },
+  {
+    "name": "SQL Server Management Studio (SSMS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy09LOoY0C8j8BKkZGRuXjKdneJdHOpL4X66N6EMYpIsYCbhohchKL6cLTsKY&s"
+  },
+  {
+    "name": "Oracle SQL Developer",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgg4UVcUp6yZbjAdtzTWQgLweRvlbbvJUnUcjN5QTJCtCFnBbMLVy2O2VB5I&s"
+  },
+  {
+    "name": "MySQL Workbench",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABItSl_bZx3zjXhURQgIsPK8zejm2mJsFQptGGECd7qczgztDQ3fp6eSF8g&s"
+  },
+  {
+    "name": "Toad for Oracle",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEnMNo2CVaFchDpdzsxYIwqZMZnVqFUQJX-pi5B5-pZOpMCOoNuxUg9yxwtg&s"
+  },
+  {
+    "name": "pgAdmin",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpwTM8qApMmxtHpiPxWDovCjws-ov97C5U3o0D7dam2jJgaSqHS79W8PeJy1I&s"
+  },
+  {
+    "name": "MongoDB Compass",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3TXcxiMAupMSP5mcKwAYtnby3o-cTX9BTLnlgDpvxIhyo3v7oKdwm7fSEQ&s"
+  },
+  {
+    "name": "Robo 3T",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQZyvapWHBmiyUk9FLWb4Dbhvw0x74x71M2-Xo_lyMZQ_jVWH1nuJxd-hQsw&s"
+  },
+  {
+    "name": "Apache Kafka",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuaguu9rYenbe89d5r4D1JDyzXU8ObBKV3et14eGM7wzSa2rrgc2pOXQIDJA&s"
+  },
+  {
+    "name": "Apache NiFi",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIpnUqc8PJkd8bjYqIyoyGZdFbM3S5SX93CaKhZxcfFqVEXEXyfF4ZcEBLA&s"
+  },
+  {
+    "name": "RabbitMQ",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKnO0sCXax6TkL2cO3DZ6fSz3qqxvs3x6GGyeh5R-ngPkmQz5aZ8vZURVYho&s"
+  },
+  {
+    "name": "ActiveMQ",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAF9hk8Z490BgfpQfSEOzTO9LUo5xVF7_5e_4X_6hE1iUQ_7E765SCnp20QA&s"
+  },
+  {
+    "name": "Elasticsearch",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA1nCG2bkrYB4BSiq1YK7MJcGTocD0R0JgyfSIiqleJ4RLP7fUtGl_Zh8DLhE&s"
+  },
+  {
+    "name": "Kibana",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Hpo6CO2KPZv8Ulzu0TViVpx_wyMi9YaZ8gtyk-H7sVaxlGFYRwuMhdR0DG8&s"
+  },
+  {
+    "name": "Logstash",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEM8PYLM6KuduLibUekIcrYg6lwUP6daGHpIZd1GiVTQkJrFfPtRLM_C0DFSY&s"
+  },
+  {
+    "name": "Redis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgzPnR550H1x7Iql12wECtqASPNWMM5J6jUFKb45wljtWJqWYxN-JXqYxUQ&s"
+  },
+  {
+    "name": "Docker Compose",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZE0I9kgaPyf0UJfymJIsMOZc62ewsky6z14fUK25Lz-IGjzTiU9Bi_-lkpA&s"
+  },
+  {
+    "name": "Rancher",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBIHSb_DcuTz-C_jVLOf-MfkyiOh_bgL3HY0iQbecutoja3fUNB8Ul2grnA&s"
+  },
+  {
+    "name": "Ansible Tower",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQGAM2r2wDrrFRPl0TzSy1vJ8Km-LpASql09TWAkHshoRjvdaauc1adRVd3x8&s"
+  },
+  {
+    "name": "SaltStack",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5xzpEW5aBzLcjUsgldxXXOTYov76I8s5ZSA40w_vBkWC_0jNUmpPbjyS8nY&s"
+  },
+  {
+    "name": "Puppet Enterprise",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PAgrcuD5UpDemMqxOd6VLHk_YbLCd7XXElvRYyfAjvyU1OdGCCM4gtgIgw&s"
+  },
+  {
+    "name": "Jenkins X",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0go0PDpo4VL8TmRJ8MRZBxY5E1y5HMSgMvesMth-Nj_kKjINSDmf-47gBrA&s"
+  },
+  {
+    "name": "AWS CloudFormation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLszvoBDvlzQHCeuAwBdmfptdioK0aOQXxLWdyrnHPACKhIlQpsapuS7BVScA&s"
+  },
+  {
+    "name": "Google Cloud Deployment Manager",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaHo4kS0I1QmJnKvkOlTbuByWPFBrbifl74Jrx7wAh0nkGlp73hflph6_TA&s"
+  },
+  {
+    "name": "Packer",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP-US3i82grOG9tQBl8FCo6hU0b3lgKl7YjgDuiHk9gFWLZ1K9XzjV5aoe-w&s"
+  },
+  {
+    "name": "Amazon S3",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUN2Gr9pKb539Il--vULheHSFrFxcITcqN69nxhFahW7CVn53Z4_DrjhRCUQ&s"
+  },
+  {
+    "name": "Google Cloud Storage",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnYnqNg7BhMk84JqUMvOux80pK1aLp3FMtl_ECNDEuj7LgBQhajIb8d8ABmQ&s"
+  },
+  {
+    "name": "Azure Blob Storage",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_g_Yqmf0s8OXdnQnIx0Q8XdtmiokBGz1GssGM1X7BFY_iNtex1ld6ZtF41E&s"
+  },
+  {
+    "name": "HashiCorp Vault",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdutmeYzja_58J2oEp1smg5DMquf_YL1WabYfF6BZym9FXa0v3TCE03rmKtok&s"
+  },
+  {
+    "name": "Microsoft Active Directory",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBjisr5oorueQWXpMb16EWAlWsz6Sjcdajb45YVsV6CSkBzuMysaIiIXaABo&s"
+  },
+  {
+    "name": "Okta",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgxknYpdD4JunSxd6lnMKmN1d30Bf0ypTkRsRTUPiSAvvZy73a7YSfhStY3A&s"
+  },
+  {
+    "name": "OneLogin",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJto6GOW4zH6P_lpG3KPhSAUnJAMqHvB1J9ikRevmNLhT4zr9xoZk4G9tuiw&s"
+  },
+  {
+    "name": "Ping Identity",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofLWhinfT_nVgYuofby8I9cGJgZupEiNotRMD5-ngFhscDvBwO8JsuC_z6Ts&s"
+  },
+  {
+    "name": "LDAP (Lightweight Directory Access Protocol)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT82buayhdw3KVhu-fWQ_u2BSagTlaKLpl2Li3if4zD02iQq5pR1mZmU5wan7M&s"
+  },
+  {
+    "name": "OAuth",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuQC1-0I78Isr0J8LUEztmdOjcT3qQRINUYambEUw94xEl-jr2X4utC4Zwg&s"
+  },
+  {
+    "name": "SAML (Security Assertion Markup Language)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXn5UfJWEebL8zbNqwQPokYd04e6Mgq_Rs3CcCYaG75na08-kWSNz5MNJtkLM&s"
+  },
+  {
+    "name": "OpenID Connect",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_zl9RQr40zi_n_EOC6Q9BzptAjCyUBSdIE6MTpl_-kxBjYIuGXb5Qwtk7fE&s"
+  },
+  {
+    "name": "F5 BIG-IP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXPex-bjyNPBp6XrErZPkg8adD02L_5V-eVG-30IG_LOlvWRjpjuzBl7kLdQ&s"
+  },
+  {
+    "name": "NGINX Plus",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoOLvu2WY6PaXIQ9zoNZpfAkocNT0WfTrQDWPef2XpRF94J2Qj1mtFZlK_p4&s"
+  },
+  {
+    "name": "HAProxy",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfEdX4qAruCERk71bS3J5ML7D7hj9NptevIjMlknFWiMhf_AfNozwVdgVDzQ&s"
+  },
+  {
+    "name": "Akamai CDN",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJj8BZHKb9MXoJlN4mJpS9lFBj2kJzB5ldJi0C1ImFU-KB1JVQEsTDS9RslM&s"
+  },
+  {
+    "name": "Elastic Beanstalk",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYE1thzwNSvWkZ_dydP27aOHoSJAS2ZPXp3oEDH4QQWlGXBjwdIC27Nmb_tAg&s"
+  },
+  {
+    "name": "Heroku",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_agLK_yKCv2mt5Ty00kUkQn7ucMZoS12j8AyH90oY1_7nfDzzXNhy6PnzcQs&s"
+  },
+  {
+    "name": "App Engine",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR96GUdaK86qYjSF5oCLIgoR9M7wvn7m8FfCJoh9F1lCgCtMVIepTcGNLWt3w&s"
+  },
+  {
+    "name": "Firebase",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5gZzNR5a4aomAJw7PoVz3cV2NKpQ24dZbg-0arN4KRSwwuTaj8qhFJvCMeA&s"
+  },
+  {
+    "name": "Apache Tomcat",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAM0pbJEWL7uCf2lbeYxvoBPnSShWpIFHq9OX8ByQgL7XEKub6gFwuY42Nw&s"
+  },
+  {
+    "name": "Jetty",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS961i2zu-sHR98vqYYu2w4okaFtipD9Bt8bvabc79uUsTHnPQ0N_qZq5jA3Q&s"
+  },
+  {
+    "name": "WildFly (JBoss)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkp_vjzES9DMcKGzmW6mmONFr0LZkXVJs-3XGLzsnfNqE8Qm4J_u3mFE4k0Hc&s"
+  },
+  {
+    "name": "Express.js",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHaPHR9S2cST2V6R4v-poYmZZrjkOZnhgFdHkfMfEmYg1ODa7USNpqGECLuVI&s"
+  },
+  {
+    "name": "Nest.js",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm0BMxvWhW7uamo5bMPB3HrNTfh19hBBGHIfTwp-dDiAnYof4Ft51nDGLV8Xo&s"
+  },
+  {
+    "name": "Flask",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugICzYGGNKglaqIV3y68obW20adiynAIOv6qbZMnOAjLN02tK3XrGofuNUWE&s"
+  },
+  {
+    "name": "Django",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf52_11emEWjEoN2W5b2sHz_JBqpbTus-J0NTfSI08DM-3DZK6D17RxiS2g&s"
+  },
+  {
+    "name": "Ruby on Rails",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUt0bsHQcudxXbHXcbSgvgj2otYCxGCA8-OsgcdSt3cpcYmX3iBM3UpNWU9w&s"
+  },
+  {
+    "name": "Laravel",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2IeeF0HIs4c_VXbxEBfN-UHn0K_1WjLivzgehbf0prqeHYbOU9JrO1FWL6Y&s"
+  },
+  {
+    "name": "Spring Boot",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9MEGYNIGt3Ogh7CHU0jqP5pvef5xpMmWXQTqHn_gcxBUweiGdbfhakPBUlw&s"
+  },
+  {
+    "name": "ASP.NET",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcoTiYHD7-bHeqSH0S41JvwKRCfyn0wNmWgijLUQ7UK8uHl8i_y1CtrAdw5Ek&s"
+  },
+  {
+    "name": "GraphQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpK70nze8EQ7zk86NhmNfdALrVqPweYCnoW5AlkBkq4wiy0coaEUZ8-i4vGM&s"
+  },
+  {
+    "name": "RESTful API",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0s2zEHsFDa_knVSfIXrL0X7YfSjV6Ryb6Yn3PjWDwaqjOdLtRG4zVtd-2lkQ&s"
+  },
+  {
+    "name": "SOAP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdoXCJ2GRmSYJUs5AV1UqoxnUYthtJn8cSv3e5kqeNP0gXBUZj6HYCEfL8fA&s"
+  },
+  {
+    "name": "XML",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfSeMMlDIGUWaPqUdri9G8HSpj5lVgCq7fZ_AMf08GE-YZdV-P-NozgooR2w&s"
+  },
+  {
+    "name": "JSON",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3cULz-HZlcBOdPG-oCVYEnRqBlz6uyGlbyqTmI01DUJ7Gyhh1Ygp9enfh2A&s"
+  },
+  {
+    "name": "OAuth 2.0",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFUOPUrezcMykz1GPX3UcFdbmlb4oOzf-kCro-x8FzE44NpCicRVsdq96lg&s"
+  },
+  {
+    "name": "OpenAPI (Swagger)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrqABTEL6QoXO1_K3Utcxz1p6honiC9f869Qtyi9J-8Ttr0MAXJvDBLt0NKYc&s"
+  },
+  {
+    "name": "RAML (RESTful API Modeling Language)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7cOdkQRV-fOVAZ5gx8a7Q5-77cSdsALLXQflWRHlYA9Bn78WUdgLVPSTiD8&s"
+  },
+  {
+    "name": "GraphQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpK70nze8EQ7zk86NhmNfdALrVqPweYCnoW5AlkBkq4wiy0coaEUZ8-i4vGM&s"
+  },
+  {
+    "name": "User Experience (UX) Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKu1srti4CbTe19mLJlvUYOocWtHVIfI98JnjUyjBQZSiulC_5vSWD46WmLw&s"
+  },
+  {
+    "name": "User Interface (UI) Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8v0KZzeWiR3bysSb-of3nodYS2N3eZyJVNkRVALC1pQ9Tf4XCNrLlBR3ZDA&s"
+  },
+  {
+    "name": "Wireframing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUYKztJZ4Y1SR1BWKu6rUUvkum4NphcO5r-IWtNCapm2p0uETKM2pF_K5FxNc&s"
+  },
+  {
+    "name": "Prototyping",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAyCu5-UvRdeiH1M4R8qu7F0qBPevDXvDuiG8MZuET03Fwk4I9cgetVATsag&s"
+  },
+  {
+    "name": "User Research",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBOFS7gUTmTVJtxp7LA5cXY11qFdZbJcuMgLXjmk6lKAcDTKHGPGrY7vFYA&s"
+  },
+  {
+    "name": "Usability Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13y-ojdfIe4f1-EfPBOp7kZtlJbFPosASeqGYObnjudiY7JsSEXMy8IEEag&s"
+  },
+  {
+    "name": "Responsive Web Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwwSpNywsHuZQuC5zn1gQJDNIUmyXYbKYHhgOJ6xKhwbLABVeNmnBLHs8I4Y&s"
+  },
+  {
+    "name": "Mobile App Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMd1y2_4dpkCL3cg8_JmxZMfBxqwu0QJ3wyzJbCMZPYrz5S2BkxTeiWhZwr8I&s"
+  },
+  {
+    "name": "Design Thinking",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkY-ZWusG8DzhWE7-i21vqRSt1NEMHghPpxhIdL-24cp5NZ__0f-Z9AF-raQ&s"
+  },
+  {
+    "name": "A/B Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsrqQDy1NTCYq58isaGigBfio5fqn4W-3MHaA-rGE7FtTaNiitlZbk_eDTtE&s"
+  },
+  {
+    "name": "Google Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd8GE3ijwQ8jBO7Q_4ZplkOYH3hcZ8Vh-EXusbMUaNgL5D6_j5IJwiyLAUHHs&s"
+  },
+  {
+    "name": "Adobe Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIRqRXY3-iqmIRJ_L9uRqLhEWsgmwoJjA5u7qi2mdkvFxeAffmrvMXpi_Gnk&s"
+  },
+  {
+    "name": "Mixpanel",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQICdo9k4Y404jEuMI92FOzChOmdoCHlJr_HL5TBmPuRgGf_9CwQK-bX36Isg&s"
+  },
+  {
+    "name": "Salesforce CRM",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0Nkq0kfeLFQgxn-uHL7KDRHjs5fOrKWTq3MCpaMhEe0ln9aYptAtg-4Vxw&s"
+  },
+  {
+    "name": "SAP ERP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjvNdQw8bGvMBbiNx2c6y0zbHMhrDbGpenNHSrBlK_6EVTXuk0pm1qemb-g&s"
+  },
+  {
+    "name": "HubSpot",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCOPzFG_vPvTxcO5dPhT0wj95xudMjJ3eSRLBKHQsgY-G7gFtCWjslABQysE&s"
+  },
+  {
+    "name": "WordPress CMS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3LrVGwBYVL_gL1slym2cNrReL1jMg8UhyvyvyzI4zDdo9dcV3nToIImRcJWs&s"
+  },
+  {
+    "name": "Drupal CMS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNcyPDIWeAgFlKTuLeMD6JcBk1nZu6yhXpodTQ4pdeivDTL2L2IoRwGIw93VM&s"
+  },
+  {
+    "name": "Magento eCommerce",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0pzbnBd7S8jDqhBF8dTgQJqR_ICd7OfpKDBEgLT07m1OlFxSH5wuoCRw849c&s"
+  },
+  {
+    "name": "WooCommerce",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9f180UXBkMu-xSGVl9DRjRz7GR10_N3xcFHdUnWqRf_hybJe2XC5TTD4S0Q&s"
+  },
+  {
+    "name": "Shopify",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRw-tfDKpRm9oYfJvJKZVFcHdyCFF59k4d9B1VVkG9uftB3ooqOHgXjbijhk&s"
+  },
+  {
+    "name": "Joomla CMS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5TN0_zAmWF5vcHJUsEoRCjIgOGNKtA_GSRbSYYI7gYUngGrCHkRxi8Ig0Q&s"
+  },
+  {
+    "name": "Apache Web Server",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHAiZvxfH-S8_9l_vt-wwuSxa9i0OIVRyeyPe3fitW5QV74JOsR6kehewWg&s"
+  },
+  {
+    "name": "NGINX",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfLvrLS2mV228Tc9DlSkT3SY43i02ILSGryWpcjfIO1M81rJYiJJ-E4cadiU&s"
+  },
+  {
+    "name": "Microsoft IIS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SJ-UUhpqeKKAgR9uaPPtHs9-eD9bPkAsuUPcE55qF_HQRk8A-hHEGdT5XaY&s"
+  },
+  {
+    "name": "CloudFront (AWS CDN)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfxwa2sfCTna4aNPmcwJonuvhOx5vQiNz2ooirKQI38MfDKeFeyVLUj5Euw&s"
+  },
+  {
+    "name": "Akamai CDN",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyJj8BZHKb9MXoJlN4mJpS9lFBj2kJzB5ldJi0C1ImFU-KB1JVQEsTDS9RslM&s"
+  },
+  {
+    "name": "WordPress Speed Optimization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWiDV60kI_WZjC9fXmFV3mM0bR1kBTq_7hxCk9M2upCEkbm1vKj7tB3qRPr6U&s"
+  },
+  {
+    "name": "Search Engine Optimization (SEO)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRALtyoavzvYYMvgt0ZhHKMFM1oKW2DNQGMK6u-nOLmsycSpBQHyv8j7Ij8Rzs&s"
+  },
+  {
+    "name": "Google Ads",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjHFDjRcS4B5PYlYMcIB1aOkQ2dmRh2LyEbO6EGEbrrlPn-Yu8QMy-C4krmQ&s"
+  },
+  {
+    "name": "Facebook Ads",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4vrxUHJJX6oMCRwyQ8afl1fh0_6RNiitYVfvHy04gsuxD7m2oTkdAXiPs18&s"
+  },
+  {
+    "name": "LinkedIn Ads",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tKHWc1FoSYKDJTbrsf7B2gLmhwTN4PE93WsJWeMxf_LEUSnue3y_LUt4Bg&s"
+  },
+  {
+    "name": "Twitter Ads",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJVsstA7djhF-k8W9SHzxMOsydj5_nglVXpsjMQfeO8t1DGOawje3XJhW-HE&s"
+  },
+  {
+    "name": "Google Tag Manager",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhAivzVsiyghyi9im7IwRtIuEmmCp_GyZ4UBGYOQ3JCGFstB1GA6_FRjIQW4&s"
+  },
+  {
+    "name": "Firebase Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKOzWREAKkdiR-ruGMORI7tuTfOF4zdfEfklraWIvuXcKOGvy0qjVw6mPDew&s"
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WwG9G2m6DSZ2YaXOP4gIufy93Cukjx2hWdUkdDacfIzBL8dY5OZH9YBolA&s"
+  },
+  {
+    "name": "Salesforce Marketing Cloud",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIo9andUUp5OHyYdpQ_7D4FagnCwnz0Edydyf6WuNrUJDSvBvxNNgQwSYgCQ&s"
+  },
+  {
+    "name": "Marketo",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAhDB_49tBNLhV7F2QMnQjvmk72rZSLb1wDFiThz4CKun0SNLnV7typ7ltlAI&s"
+  },
+  {
+    "name": "Mailchimp",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQojYTi1vojmM7KO19LmNnfiMnpbaVGbGXX7QbGrGcZysNrmSSOWz84m3V5hg&s"
+  },
+  {
+    "name": "Hootsuite",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Krjd_pJBH9mxi_seK0mWYLWop0qLEQBsaqQA3XF6EVHP2Up3b8fIfhoOwQ&s"
+  },
+  {
+    "name": "Google Ads",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjHFDjRcS4B5PYlYMcIB1aOkQ2dmRh2LyEbO6EGEbrrlPn-Yu8QMy-C4krmQ&s"
+  },
+  {
+    "name": "Facebook Ads Manager",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSET8l4tEOEkMJRPGjtF5QHSEAU76mQZx5eAaHZEnDZ--33I3SRSckfF287Y1A&s"
+  },
+  {
+    "name": "LinkedIn Campaign Manager",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRI2TIDqPC6jKAQAOcNjh-1r7j07-RYL_isQM7LaiRF9U55-tumn-VQDCWWY&s"
+  },
+  {
+    "name": "Twitter Ads",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJVsstA7djhF-k8W9SHzxMOsydj5_nglVXpsjMQfeO8t1DGOawje3XJhW-HE&s"
+  },
+  {
+    "name": "SEMrush",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEK7M59Vn-7Yn4ZkOyAzYpHQtaY1R4cBJyq1iqoeOnpUPKDIohfjbEPhxzqtc&s"
+  },
+  {
+    "name": "Moz",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpfwEZxx8muUkmOs2XkmpQ9RSgtIEoqiawMpgqpRvwyh3QTK53twy_vi8L&s"
+  },
+  {
+    "name": "Salesforce Sales Cloud",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIo9andUUp5OHyYdpQ_7D4FagnCwnz0Edydyf6WuNrUJDSvBvxNNgQwSYgCQ&s"
+  },
+  {
+    "name": "SAP Sales Cloud",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjZSGnhgJOUejQJH4XkQxzJbRtmu1H2WgmvuEY6yrCp8oiCXvL0gQErQitdQ&s"
+  },
+  {
+    "name": "Microsoft Dynamics 365",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBsV3402nI6ZdrOM_Wllp4_EgdYo5M0xNrqeQN93RPaRKVjkncAZ9OT8wUw&s"
+  },
+  {
+    "name": "Zendesk Support",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy4_oJWyN4Q3J-3aiW9Kz9gFCBXggR35eB80sPsEOAmtCWdfgY2XrNgucODbw&s"
+  },
+  {
+    "name": "Freshdesk",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3u_mWVZ5ThxEQ580tXbX6gzZfC_9mRwHvnp2CAIiV9JILGFMdFSve32Q5bCY&s"
+  },
+  {
+    "name": "Intercom",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLYvzpPWWtXnJUyjzfCpHmgURTJcqQLFOeYdc1pUNxlsHIFKjNYzvb8opYw&s"
+  },
+  {
+    "name": "Slack API",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVSLdPMdqrTuZfK2rsNJQn5FcVVRc2hZ-lN1SWj_g2EZUK7aBfLK9Rz77koc&s"
+  },
+  {
+    "name": "Twilio",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDvcL_WxITP7-SFLenHLV8Mu9eVyGEqNSPMwFZHZpIjSDPkagE1ir32115gA&s"
+  },
+  {
+    "name": "SendGrid",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2dN_aAuBfeM7lnMJBc5XhsErrOg4a5lm58k5pqDP1gauTkvdSgHsc4bw6Vak&s"
+  },
+  {
+    "name": "Stripe",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK6dVN3uy-75GCULrQliQrlQ5O02xNS5DFKQvaHtNgLJuXnO9rdyRbq_4ZTw&s"
+  },
+  {
+    "name": "PayPal",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4NMHLhKiRi7zICXzFu2mSPdOXovce-MXb0itCo_sd-TSUQOZ3T-8X9_NqjF0&s"
+  },
+  {
+    "name": "Braintree",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNAbGEqGRFcV-ZbgXGLGZjcxRY0E3nVNVoDlBi58w1IcOWjd3fK21iiEF7g&s"
+  },
+  {
+    "name": "WooCommerce Payments",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6QIojfQkf2ErKPbf8J_ab1BpXZAZInWtdDAIr0W-eNxj5dzaNnQgiYJGjkQ&s"
+  },
+  {
+    "name": "Shopify Payments",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAHbVHPBB6rzMn3DpHf8EPw3IKXM97T-KXtiO8ReRSymo_OCRPoxS5UTBSg&s"
+  },
+  {
+    "name": "Authorize.Net",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCNcVUns5QqX68n6govt43fQoQ5NHsuhZu2227ZLfiIoNHoLfZMJJVKSl2iw&s"
+  },
+  {
+    "name": "WordPress Plugin Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFL8qCG_ic-XbBh6Mje-6p83rihoM1grmz_koYB1ZdIAMs4OtCFKm7ddqmAhQ&s"
+  },
+  {
+    "name": "Drupal Module Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-JkoE9-fn4_XvzJDZDu3AkDVwL7INtUMyoI_Bd8YVjQ8umjY7njriiZAC2g&s"
+  },
+  {
+    "name": "Magento Extension Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQos_CO5jnQRaCz2ZM_2SRr9BSJyNGhW49lG7EPkRUQuEAn5dAys8AT2vhxiw&s"
+  },
+  {
+    "name": "WordPress Theme Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiAiF10z7WNcM36rnx4ml_jNRgOdyzpLB2yJyDCCeQ_lOMV60nyoVARrF1O8&s"
+  },
+  {
+    "name": "Joomla Extension Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInA0uYwxa0rPfK_RnNs0MWpai5WfCSQ1gWs3cvPAVCPrz-nBuOM3APJQbJg&s"
+  },
+  {
+    "name": "GitLab CI/CD",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzPPInf--HGRPnXaA_ydIvArGlJsHKOCPmUL6PtUXKFSaozvGDyJsyU8ILwg&s"
+  },
+  {
+    "name": "Team Foundation Server (TFS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvplnDncfcYO-V2jOBsBinFhRVvyQmImxeOzB86Ah8gGPCtnr0JLYaKnfV-ZM&s"
+  },
+  {
+    "name": "Octopus Deploy",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqAqNj21tjkltoHJdziR7Vl-iiHrTh2038sGDRw-Vuiq1VLfD73y_f-DIONao&s"
+  },
+  {
+    "name": "AWS Lambda",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32uXRZrYnOm2KeqJRExe7GUs8Ia-Qz16qB51NRCf7KcPf1lJJXe5gLOUbO-8&s"
+  },
+  {
+    "name": "Google Cloud Functions",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVVbfIBwMOnwl6CLXgQO08sc38ZNRgYR-f8E3aLpFPE82ldyxkCwYXxfRsg&s"
+  },
+  {
+    "name": "Azure Functions",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNxxgvHX6caWZlpUwJkeOSejw3IASgP7XNv8103LAaSTEy_-VyfXMrZoiBA&s"
+  },
+  {
+    "name": "Serverless Framework",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB43F1NWn5g5ipe8rgmYBa6fyBh8TOPm2OQpHKBdn8_AJFbMF9pwoj4Uockzk&s"
+  },
+  {
+    "name": "Terraform",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzCnbrQ7dHy9Kmw0wq6ymjeKx-0IQajj8wASe1uzVKxLIA0cl5JZID9lDYQ&s"
+  },
+  {
+    "name": "AWS CloudFormation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLszvoBDvlzQHCeuAwBdmfptdioK0aOQXxLWdyrnHPACKhIlQpsapuS7BVScA&s"
+  },
+  {
+    "name": "Google Cloud Dployment Manager",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaHo4kS0I1QmJnKvkOlTbuByWPFBrbifl74Jrx7wAh0nkGlp73hflph6_TA&s"
+  },
+  {
+    "name": "Amazon DynamoDB",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygpXIrabPn3jY_4EpxScI1OfbOrCCaZhD2QfaPmS9ndfYbeDv6sYge0kr7RQ&s"
+  },
+  {
+    "name": "",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiywICI6-ZbbrTk-AJLHFq8DK_tLbj0BoIwJj3kmykxl1eopLnxdtRxin0g&s"
+  },
+  {
+    "name": "Google Cloud Bigtable",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmSvN7CalAOVhKUNfxaaLCLwbkikmee7LSSGh_T85VhpD8sVDJ6hLtW8pac8&s"
+  },
+  {
+    "name": "Azure Cosmos DB",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfN0402sRJ-TxJqFa9jtDdej5OLeCvlIEYyHmAtb7qq3cRp2awljTCq3Kb3Q&s"
+  },
+  {
+    "name": "MySQL Replication",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBo0y6n5I_d6FRDp61TVt0pxcV66nbglBQBS0yLPa5JgcX4fCcz6zj7LWH_Ew&s"
+  },
+  {
+    "name": "PostgreSQL Replication",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXA3IhcbGzX23mWc8E3ERMQrqHVIsHhqSKmmKey4hSWbHtuKoQ6sKre8-jg&s"
+  },
+  {
+    "name": "MongoDB Replication",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmBBxLeTD_zoZO25gZSieeC84AqWYWbG_bWopO6nPYHTMdPvsHrVoLCKj7q5U&s"
+  },
+  {
+    "name": "Oracle Data Guard",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4ZI9q7YtpQKZB7TdJgMY_fSNQwjdKwCYqKCxXC7qk6EL4T1Kr9xpVfmhqA&s"
+  },
+  {
+    "name": "SQL Server Always On Availability Groups",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7B8EB95nMJ6ZKgd4n2fsdJ9VU4sm-bkuBiXZpoaJAIljGQVJR78_kuXiDTRA&s"
+  },
+  {
+    "name": "Redis Cluster",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9CAYAAL03ht1h3BCs7PlIkwXV5eCDPBO9WbDr8T4qTpFA8B854YMfKGjuZg&s"
+  },
+  {
+    "name": "Neo4j Graph Database",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNlhT4SRDIW6UFG_gdYjswhB9suQ8bAkZyMnAQlcd2WO_xXCBb_xVYg0kF8w&s"
+  },
+  {
+    "name": "Apache Cassandra",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJR59h75UzG3147M58maal70FzQNeRorGdfk4vWcoOOAMWHgQ-P9owaFmfqA&s"
+  },
+  {
+    "name": "Couchbase",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Jd88pT8V0ROBj1W3MvS1vjUXb2HNmDPrfCRmYc0nJCf4qfWBJO70sZvIRTA&s"
+  },
+  {
+    "name": "Oracle WebLogic Server",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99FmySLnDezz-Pj2wjFv42IyT_onVrWwG-ohBHpWGHr7vZwjj-h69tegd2Q&s"
+  },
+  {
+    "name": "IBM WebSphere Application Server",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTovD_tLSc-UgaOBGOuHFBAg9kB2iKmKlP0oawGZpd_81SVOLsC6p3QIpoEFpc&s"
+  },
+  {
+    "name": "Apache Tomcat",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAM0pbJEWL7uCf2lbeYxvoBPnSShWpIFHq9OX8ByQgL7XEKub6gFwuY42Nw&s"
+  },
+  {
+    "name": "NGINX",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfLvrLS2mV228Tc9DlSkT3SY43i02ILSGryWpcjfIO1M81rJYiJJ-E4cadiU&s"
+  },
+  {
+    "name": "Microsoft IIS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1SJ-UUhpqeKKAgR9uaPPtHs9-eD9bPkAsuUPcE55qF_HQRk8A-hHEGdT5XaY&s"
+  },
+  {
+    "name": "JavaServer Pages (JSP)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTik1NTJM2DZB4gMvfERJCUCV9AaMxR_ZXyX6N_EEcIdgUuG1GZkLXO0-GnpJI&s"
+  },
+  {
+    "name": "JavaServer Faces (JSF)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT5kFOu3idk52OOUpqYh3PL825hOskZJq-YeT3cBOqbMxRbuUeOmUqYtw60A&s"
+  },
+  {
+    "name": "Apache Struts",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnX_405Mi1e99NB_EWmlUPEPhTuZT1NG7Q7j8t63yRrGZ3Cy6SuE-i7kheA&s"
+  },
+  {
+    "name": "ASP.NET",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcoTiYHD7-bHeqSH0S41JvwKRCfyn0wNmWgijLUQ7UK8uHl8i_y1CtrAdw5Ek&s"
+  },
+  {
+    "name": "Ruby on Rails",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUt0bsHQcudxXbHXcbSgvgj2otYCxGCA8-OsgcdSt3cpcYmX3iBM3UpNWU9w&s"
+  },
+  {
+    "name": "Django",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf52_11emEWjEoN2W5b2sHz_JBqpbTus-J0NTfSI08DM-3DZK6D17RxiS2g&s"
+  },
+  {
+    "name": "Laravel",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2IeeF0HIs4c_VXbxEBfN-UHn0K_1WjLivzgehbf0prqeHYbOU9JrO1FWL6Y&s"
+  },
+  {
+    "name": "Spring Boot",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtG9S7SIaoZi-BoH_0LFnfMhISEpccqvL9e59ZpjUlRKlG4MBnQlj1J5jzg&s"
+  },
+  {
+    "name": "Apache Wicket",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf-CxSHvLuMb-FOCvJtSIIDJ6iC6Z1_WxW_GJJaTOBx0cx-ytbB1DrYA-Jw&s"
+  },
+  {
+    "name": "AngularJS",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xrkqz1p-7vR90dOPk5nnO2_Km_zaCw3MJJCrqOGHguV86Q8tEkVkSXFhrMw&s"
+  },
+  {
+    "name": "React",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1r4IxDp4GLLXCTQkY8OX4FhkEKERQjzXObDlOwLuaiBDRNJRyBmmxKPKTwI&s"
+  },
+  {
+    "name": "Vue.js",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbksu9_CFKMUTbzPf_Pa80Q-0Ash2GXskQy7s1J0Ux1GqVmNndftOFjYVfWQ&s"
+  },
+  {
+    "name": "Ember.js",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtDfajIZDUi_dEA6ulbjNKbXs0PSAs-LResX5gWk0JnDmLI-rGsY6jBHnlA&s"
+  },
+  {
+    "name": "Flutter",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPz5AJEEdPk5kc2TgNq2_lqEL4nPPYAYeTD0jHKtihEMFmZ8foIWLbZY2l_w&s"
+  },
+  {
+    "name": "Swift",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TR3WmiYH_IovKHeoRqkOr2J0_k3ep-6iRent92KT7izt2Z8Wgs6-_r4K318&s"
+  },
+  {
+    "name": "Kotlin",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1W9khk2RDlgIyYE4JecDORLb2RXpRj-PtyAmS9l5oRIG-rIIj4wtbolkvfkw&s"
+  },
+  {
+    "name": "Xamarin",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH4RjVMLsNOYA50680ZuIRUN9On1Fzl8W3BJj9LfcomQUSleZDJZPN4nVL_qU&s"
+  },
+  {
+    "name": "Apache Hadoop",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTppQSAEFzFtq1RnfDlvipaFlk-my55iUh0Y3osCWlwx5WcF7QQA5js65_CwA&s"
+  },
+  {
+    "name": "Apache Spark",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeE-skCMzmrDh3BmaFzE1sjE1kzKTV5yZQpGokqhxZflsFSNwF2I6y1AbXVK4&s"
+  },
+  {
+    "name": "Apache Flink",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMHTK9_mBvIpqTmHeRKUGyG7RoM-M4Wv7PGW5Upy51ElECZLkTg4KU19Pg8Lc&s"
+  },
+  {
+    "name": "Apache Beam",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3oRmJJoSdpgckj_s3x_FfvCJyrzumPSkOZ0M50DQzsj1iULoMqmAe_og51U&s"
+  },
+  {
+    "name": "Apache NiFi",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIpnUqc8PJkd8bjYqIyoyGZdFbM3S5SX93CaKhZxcfFqVEXEXyfF4ZcEBLA&s"
+  },
+  {
+    "name": "TensorFlow",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbYpegjpIN3CxKrLp4QC_bqmR7_TgWJB-qLX-bcLn9CJm6MYd1ZDhS2qiXA&s"
+  },
+  {
+    "name": "PyTorch",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6G28B1G6Dwg2MNDimUEZC-9_6mO__vCWB5x6pZpb3kGS1CIb1qNvhht-IgaQ&s"
+  },
+  {
+    "name": "Keras",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPT35DltC3RQxDXp3MEoJ6UUUXhXM26wPwR0nfy_PVFDEZ_aDtpu8-GHYo70&s"
+  },
+  {
+    "name": "scikit-learn",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6O-ppjIwdh2FWeQ60v4h9_Dy2iPI-Lp5tIUb13qqPqWwliq_Cp_pA7GSJuk&s"
+  },
+  {
+    "name": "OpenCV",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn3e32F0w9nbfbkxHGB6g2TmRTVoYsdDml_8K44KtP0hHFgQndLIY1lFY0lw&s"
+  },
+  {
+    "name": "Natural Language Processing (NLP)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8feyjESzc0UHwu01EJQuhEMZGjuN-4grplsMe3oH6oLe1oTuhFTTvTIdnco&s"
+  },
+  {
+    "name": "Computer Vision",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCz1nQdNFqiVKQK0VPLJdGxko346Ryt4XtU0yQ5NkFjDlhagDfUHHuABWyRA&s"
+  },
+  {
+    "name": "Deep Learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqzzKnCVs8QPFwjNAI32Cxxwl8XIsi-N6ZFIOliVda6s-b7mnDNl-V6Cj70Q&s"
+  },
+  {
+    "name": "Reinforcement Learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZip2kr5TkqWUZDwGU2QTobAdMRoc6-FkpXG7MODcfR3n9RX8LMnjnxRjpjtI&s"
+  },
+  {
+    "name": "Genetic Algorithms",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNANOVMfD-qxVKSNZc79Bcuumk7jLzCH93tvY2bVQZgtNd9Yp9LV9ycndeILs&s"
+  },
+  {
+    "name": "Image Recognition",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBvfX1zdRceHVK22mcwxN6KHbuOjpugg9lKAdHy2VfRwQUJCQoXjW6dQ08A&s"
+  },
+  {
+    "name": "Speech Recognition",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZEFQYQ8Dt_Ri8M3POoG4fVv_AAg3GQ0-8fywvkqRukK73gl0wA0NYaImeAw&s"
+  },
+  {
+    "name": "Chatbot Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjBb9XSZc76xkftWuEY1klfGX1lMCi91fUfyaqK18ARS7rNKgJjIgI_X3jLc4&s"
+  },
+  {
+    "name": "Recommendation Systems",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpvCsIyeHYj7-iLfnNto1YaCAWFhbVRW3OT1COJs05D_lWUhCY2RVY7yuNuw&s"
+  },
+  {
+    "name": "Data Mining",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09KSpzx1cpoZUHqs7VMpcZFS5ve-gc7YgrGr4za0ccBYtQ87Q0SapCt2Fiw&s"
+  },
+  {
+    "name": "Time Series Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvSfe-L5qwiDxOHIxvIqklA2KTfxqaGYdYk5jFiA9o54L-PIVBMjZyE_7lXs&s"
+  },
+  {
+    "name": "Anomaly Detection",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojTv0VsJR8mK12T-buBEp1zcQ8efeixVxZWkDMUCTurE-Roewru_08YFH5yk&s"
+  },
+  {
+    "name": "Statistical Modeling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoo88U_bi-xX86iZDEZSlFj8xdNRP7oxS9PfaubsO0E2CxAl1mUfJBBT6cwRo&s"
+  },
+  {
+    "name": "Bayesian Inference",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCS2Qm8Z-dE0zMVgOw0xJ387gCriyh-NytA_ZTXhW6uDxx0zQXWrPxSTkKwA&s"
+  },
+  {
+    "name": "Experiment Design and Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXN7hh51Ivwrt8i3RqQ7O6g7RVmPCb7-SaoO308ZEWlrydXb7ycBeMZ0_noZA&s"
+  },
+  {
+    "name": "Data Visualization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8DKo4lJEValbOiU3RASUFo4_eONuGPix4b1YWtJ1krvN0IIFPDYVBakloA&s"
+  },
+  {
+    "name": "Tableau",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFV8b3do0ZTvzHpmVZN_gVl8u2k4Mc37f39xy9cSlNx-xu2XhF2BviciqATY&s"
+  },
+  {
+    "name": "Power BI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZE1iOWzNuztLFb7XshaSC56Z9mYcplcUykO5VR1l7QELGgtBOuBk91ENvqA&s"
+  },
+  {
+    "name": "QlikView",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUcXId4HDtb-NvQxcRYaQ78tNoGM35lvHYC7HvNM04Ve7PNTbSLkvQXpxgAw&s"
+  },
+  {
+    "name": "D3.js",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIlGB1AWmLEa5musMkkC2C4f0CygwXGLlEu1kIt3faImBky-pXqp5OozTHIB8&s"
+  },
+  {
+    "name": "Plotly",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnTLdoS3aBnLueT-CTLr0l88GrmrngR9kQO9i81bwQXmF1s-0bRZyyRPsPew&s"
+  },
+  {
+    "name": "Matplotlib",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIAonSLsbmpoUPN27kXA01GFkwrQ4Gdirvwx_5awbom0xRTvjmFBjhUj7MoQ&s"
+  },
+  {
+    "name": "ggplot2",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQue-NkURbSG1CIdeA4He4O4meldXK_NeAfYGJ6vobdnLbwEws8cUYyZNGLg&s"
+  },
+  {
+    "name": "Agile Project Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8iE4rWUJ_y4CElwtMBfRkQOZxXmy_vnSMvNPwbwTOuHVw_PuAPrFeFtqkUE&s"
+  },
+  {
+    "name": "Scrum",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA-jsRcN0oSSc7zh9Rb6EOJv69hFll-us2pcBYLpfsQvkFcrFZmzkusLIj9g&s"
+  },
+  {
+    "name": "Kanban",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS_P73BdCxIxiwQzthS3mCoYNdLFlNWTU_nvuWQLT1agpXiJ4hZXZSnmL9pQ&s"
+  },
+  {
+    "name": "Lean Software Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjMZwDSgQzvrkmYjeBxi_IaTAGCxQ5jiTYx1BkRS6TqhGYnUvjKjlt8nWpQ&s"
+  },
+  {
+    "name": "DevOps",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYvkzfYs3EWCfAOGU4FvA00RlJGN1PEYtq9SVd0vsfgklNGFHErpFYqqAig&s"
+  },
+  {
+    "name": "Continuous Integration/Continuous Deployment (CI/CD)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4BH7cy-Xxf0lRly1uK_yjLqNabXSePjPu1A5fMTxflDuWeabT81OhGRnxw&s"
+  },
+  {
+    "name": "Jenkins",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-6oFuxsfllZoUf9NsgE7_OmjxMFoGU0u5v-b6ssouPM7JQNlAdErMck9NEv8&s"
+  },
+  {
+    "name": "Travis CI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTuQUNdszZATJWlljRx1yjhgxsfLChOW8uEL5oa2Q1SWnIzsr6K0hTSQ2HQ&s"
+  },
+  {
+    "name": "CircleCI",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArvVA9LfNTHGM6Hj4Nmkp_8SbtpGNxz--YYIzuhb4eDrCYZwjS65OI5_EHA&s"
+  },
+  {
+    "name": "GitLab CI/CD",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzPPInf--HGRPnXaA_ydIvArGlJsHKOCPmUL6PtUXKFSaozvGDyJsyU8ILwg&s"
+  },
+  {
+    "name": "AWS CodePipeline",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Excnzy9siHsO7t13c0sl4rvZv4mweryoHVCUUevUuJ6nRoMbgpMxE21EAg&s"
+  },
+  {
+    "name": "Google Cloud Build",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDX3eRT7kDoJo3JQhEUZHfyCx2-rFxeVoACJaBTEAd0KoHM25JMYhNJ4UCmw&s"
+  },
+  {
+    "name": "Azure DevOps",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sEcz2sbgaEYot7fjjkWrkcGDSFjF-Ifo8ZHyJHRga4qNqwSosyAtFl-ZFw&s"
+  },
+  {
+    "name": "Docker",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShEH3eqC4Uz0YjEXEVnTGZmicElI7c1QgM9ZdGWbgLBk0UePF2X1LI9gmdP-8&s"
+  },
+  {
+    "name": "Kubernetes",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSptdMin46FDAcKJCyJqHs0lA0u6UMjw7JnFdHk0-XhTcPetk5nPskaNMg2LA&s"
+  },
+  {
+    "name": "Amazon Elastic Kubernetes Service (EKS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV0s1z-lVrCd5sTSHAuWRvabQeakqRvm6sGSeRj2Mje6Q1GrZ6d-wdvZ1YDw&s"
+  },
+  {
+    "name": "Google Kubernetes Engine (GKE)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUBRRq4eK7xlEh3VR9TwHm-mo1mJQJflgG19XQLijodIT7pRq7Xqr0ClansI&s"
+  },
+  {
+    "name": "Azure Kubernetes Service (AKS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIR6E43M13ZARFJB94isYQueg_hI9WzQjknzFWPDxffsyzJn9HT4z7vPeQgA&s"
+  },
+  {
+    "name": "Helm",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJR8Tyjb_RGqxFBFo3LuCl4DldCrE7UtQ_Oy5_wvHNL2zpPK0_136Ir1gsTU&s"
+  },
+  {
+    "name": "Istio",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxB0qkyE5yNWzfx0yMRZpRjQfj9-xLXD8hC7BLCmaF6TFy1fyMcX_k_1KZVbo&s"
+  },
+  {
+    "name": "Prometheus",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDOfyst8reoT_ANFM1IA4Tfpm5kkpzwu6AD9h9VIVD2gfafZf6SkMmjFn2g&s"
+  },
+  {
+    "name": "Grafana",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSLZTtO26J8_4OgkaSe_BsO-lJLdebi-pkIaa6rYBY3x-RiReVWHoTdU5nPQ&s"
+  },
+  {
+    "name": "Splunk",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc3YYp6_CuKQJGBBe5AvhLVPpm4cqUQK3w0dgRHpgjP6kxmR-8-B2Lxf1fjQ&s"
+  },
+  {
+    "name": "ELK Stack (Elasticsearch, Logstash, Kibana)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ77fCXgNcgqIhFkuLKQXIpn18Dlf2s6Ohk-TBFQDz5ELCBiSFFd_mroteZzHA&s"
+  },
+  {
+    "name": "Graylog",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXafjPrws-nGXhg8ThwphllwVv3WF0r3xBZR2Dgj1Zom1PDrRE-PPB_ENGhg&s"
+  },
+  {
+    "name": "Zabbix",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcMfJpSU3j00SF8-qhztrH14jO-e2DNV0kyAvPoScLi14Qgo_Ps7sYRPg4c0&s"
+  },
+  {
+    "name": "Nagios",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXkoUWsPDAckGZZhOQpOOSS_nM5qzAlfzV5WcDrdnrcST1aKZlUl4oUQZ87Q&s"
+  },
+  {
+    "name": "AppDynamics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRovJhAvfPsuZYBwF4OuaFzbUgqf7AsVU_s2gGJHSt6xO9K-5jYPWAQDpzdJ4&s"
+  },
+  {
+    "name": "New Relic",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpwDs2pXALPSnMRh6affYae0SXKVLhOrG8NFrxAYbMU7YvSyzPPKPZwKpyg&s"
+  },
+  {
+    "name": "Dynatrace",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2tc9oFDPW1w0kKTVGbj9S8T4I2Fl6U_VJH_59Os4sSqWvCzNevEEez9fxy4&s"
+  },
+  {
+    "name": "Azure Monitor",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5HtUxoQrKBeXeouSAZ_lUh8GB2JaJiu2EL-oEftTDkiy1dx5nKx-8Oo2jkQ&s"
+  },
+  {
+    "name": "AWS CloudWatch",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSbtMrFeQkDfnuwiKw8FA7ICZcvkYuXWN4GB0z3zrTir5ah2f1aGCcnqJZM4o&s"
+  },
+  {
+    "name": "Datadog",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpqgBwNBNKM0Pe9UsBM61s3KwzWNI_5ngCOUcmQscR3UQC-Ttuwdsz2GOfA&s"
+  },
+  {
+    "name": "HashiCorp Terraform",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS448cHwsRKNyEyecvf8061nxGvZM07ko7bjv8VYWdAGV9uF1rns0sujQcsjA&s"
+  },
+  {
+    "name": "AWS CloudFormation",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLszvoBDvlzQHCeuAwBdmfptdioK0aOQXxLWdyrnHPACKhIlQpsapuS7BVScA&s"
+  },
+  {
+    "name": "Azure Resource Manager (ARM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyFuTGfg3GUNchPPbwSMaknqBfB0ZHvGCNPpJtGBFaFMUCJRqwiDQvQhR4to&s"
+  },
+  {
+    "name": "Google Cloud Deployment Manager",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLaHo4kS0I1QmJnKvkOlTbuByWPFBrbifl74Jrx7wAh0nkGlp73hflph6_TA&s"
+  },
+  {
+    "name": "Ansible",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqrfCwi1Vo2KJbjrcRgznXBy4AvLJDgouKH3bXHFlthGJfLqsKa5I2gC6n66o&s"
+  },
+  {
+    "name": "Puppet",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGPg5rker8nebukhMpBa5jkMDL9hRqOeIIpoodySmY--GqpKozkuhOBTFmTDk&s"
+  },
+  {
+    "name": "Chef",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyzZTTry97N0RoCHXsENwPVC_K_3XExxZDOzzb-31cxkVSBbsPAn8jjTXug&s"
+  },
+  {
+    "name": "SaltStack",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5xzpEW5aBzLcjUsgldxXXOTYov76I8s5ZSA40w_vBkWC_0jNUmpPbjyS8nY&s"
+  },
+  {
+    "name": "Jenkins X",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0go0PDpo4VL8TmRJ8MRZBxY5E1y5HMSgMvesMth-Nj_kKjINSDmf-47gBrA&s"
+  },
+  {
+    "name": "GitOps",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeQKtV5Mpy0qRKDcm1PeArb9Gae4oNAWtptEw58Ss7EVzUPP9IRJaWNFuweA&s"
+  },
+  {
+    "name": "AWS Lambda",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32uXRZrYnOm2KeqJRExe7GUs8Ia-Qz16qB51NRCf7KcPf1lJJXe5gLOUbO-8&s"
+  },
+  {
+    "name": "Azure Functions",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNxxgvHX6caWZlpUwJkeOSejw3IASgP7XNv8103LAaSTEy_-VyfXMrZoiBA&s"
+  },
+  {
+    "name": "Google Cloud Functions",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVVbfIBwMOnwl6CLXgQO08sc38ZNRgYR-f8E3aLpFPE82ldyxkCwYXxfRsg&s"
+  },
+  {
+    "name": "AWS Step Functions",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1oZUH7y8aSQVS8XCEVOPb-_VnHLOou1-iAQFy7t7q_UR19fRxVOLsYhtUcN4&s"
+  },
+  {
+    "name": "Apache Airflow",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWl0lBbGg-Azb8pVxEG-bDMmP2ju80qv4RRPVEq0CDmJqBMy2e78VnJ6-mrA&s"
+  },
+  {
+    "name": "Serverless Framework",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB43F1NWn5g5ipe8rgmYBa6fyBh8TOPm2OQpHKBdn8_AJFbMF9pwoj4Uockzk&s"
+  },
+  {
+    "name": "AWS API Gateway",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc4MB2J87d86anLGkM1IjX6vEPzf7EwSzzA9hefDFYBBlfGVwJzWHyyyUv0Q&s"
+  },
+  {
+    "name": "Azure API Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_R_fhSBPelSSDib8bYYddTFU13llK0XPW2mWu_cVO4e_EjQQ15Es1yWnXnw&s"
+  },
+  {
+    "name": "Google Cloud Endpoints",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO1i5W9IU_O3pkt6s5cbJxCqhMIOzvNHTeConl3-IUR0zPQngV3D67a8iXng&s"
+  },
+  {
+    "name": "Kong",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pTLYcjgxJeDO0JRPuw3RfybsEjSqjUBRMKax2skEeXc0imY-qPUuXW-MOw&s"
+  },
+  {
+    "name": "OAuth",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuQC1-0I78Isr0J8LUEztmdOjcT3qQRINUYambEUw94xEl-jr2X4utC4Zwg&s"
+  },
+  {
+    "name": "OpenID Connect",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_zl9RQr40zi_n_EOC6Q9BzptAjCyUBSdIE6MTpl_-kxBjYIuGXb5Qwtk7fE&s"
+  },
+  {
+    "name": "SAML",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6rJnUOOtznP1xgYAK_O4ONLHrl45kmjMBkCZoSezYyF__LCuxYoLjRr5X0I&s"
+  },
+  {
+    "name": "JWT (JSON Web Tokens)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7e4x-ZmT5kAKQLHZdhL6TdbHhGa6bJteCquFRINjDH7-FOiTSIZ8-TUO-gWI&s"
+  },
+  {
+    "name": "OAuth 2.0",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFUOPUrezcMykz1GPX3UcFdbmlb4oOzf-kCro-x8FzE44NpCicRVsdq96lg&s"
+  },
+  {
+    "name": "OpenAPI (Swagger)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrqABTEL6QoXO1_K3Utcxz1p6honiC9f869Qtyi9J-8Ttr0MAXJvDBLt0NKYc&s"
+  },
+  {
+    "name": "gRPC",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDPXuCvcZY7S-8nGYWZwRk5I0y2Bkv9BP1nhzUe51FkWgZtL8C6-9oflmwi-k&s"
+  },
+  {
+    "name": "GraphQL",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpK70nze8EQ7zk86NhmNfdALrVqPweYCnoW5AlkBkq4wiy0coaEUZ8-i4vGM&s"
+  },
+  {
+    "name": "SOAP",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdoXCJ2GRmSYJUs5AV1UqoxnUYthtJn8cSv3e5kqeNP0gXBUZj6HYCEfL8fA&s"
+  },
+  {
+    "name": "RES",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhAJhwepZVukKMzgXIM2QR99QqYYPUq1gW4WYJlF1q8e5UJdfSItkxZEhCnQ&s"
+  },
+  {
+    "name": "Service Mesh (e.g., Istio, Linkerd)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKFChvt-ccANd9kW4RacGJNpLvsMHwiJzo7yiCdKztvWIBICi5E-R5yLAKMQ&s"
+  },
+  {
+    "name": "Event-Driven Architecture",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxrl3ANprZVf06ppzmUYQSFsflLP7CV-Kfkv4fNfMG92LHjyUa6e3-a5MpOJw&s"
+  },
+  {
+    "name": "Message Queueing (e.g., RabbitMQ, Apache Kafka)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-MpzFdmRyxtvbrdpplbTcPDpnjFuEBL98BDGBvWhJb-zZDzqV3bka7cO3DQ&s"
+  },
+  {
+    "name": "Service-Oriented Architecture (SOA)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfCZMQD2CJTMn5U3yq9_YrcsoggsxHfcYx9rVYEMKzq9c6cC9m1RzDsoRp7A&s"
+  },
+  {
+    "name": "Reactive Programming",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSViU-plfyw91Kx3zk-mjF16Xhz2JtTAOo_IlWIS7v8bjAFLv7zGVS3NzjFcw&s"
+  },
+  {
+    "name": "API Design and Development",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOqjeUB8Va6OUlm8IkUzg-Qtbq6HnWgYRZF42I3AuSFhIGQ7d1KaBy7ORVVQ&s"
+  },
+  {
+    "name": "Secure Coding Practices",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWDOnQdcdYUEMYOdDUvo2shQnsWupmY9o3yzBUFBlxY2SUBlqsuSDpuFg6FA&s"
+  },
+  {
+    "name": "OWASP Top 10",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJdc6jqH_cY2gU0t-Q6sE8qKhzp81Uzc_4gQu1mt8dslOGZfAzlLFqyQv2A&s"
+  },
+  {
+    "name": "Penetration Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFGNeZGsMsezdnQaG03yOXUO6156wh7duIkz7dCmMDteTd4NE2n2CU2tBrQ&s"
+  },
+  {
+    "name": "Security Incident and Event Management (SIEM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmso_koxJUKntja44ttrctdKtYBjYttUq9VKqzTDKolbcymSMi1HDR2iILg&s"
+  },
+  {
+    "name": "Identity and Access Management (IAM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgUNa_id_XWHAtKthnmynySgTc3mPkCxkZlHr-idsoGVhRHfoH6oTSc9nGjQ&s"
+  },
+  {
+    "name": "Cloud Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgo80c16wH5OWBQrKxt0-39bP8C_cKsU1ZKjWKksBGlFZ3kwWAyV1U_7v9A&s"
+  },
+  {
+    "name": "Data Encryption",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFwbmKX8-fFk0WehF9DdeEt4avqArSqQBbHmCSZ6-_MR7ESpWdmlKwAAm4w&s"
+  },
+  {
+    "name": "Security Auditing and Compliance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcupjpgQD6KybRqQFDw9XkVdl00R8V-JAwELAsw6Eqe0Ubh1vkypf8fjIAZA&s"
+  },
+  {
+    "name": "Secure SDLC",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk8fZjdUkXRXvU2Fkk5NJHjrmXhKp5Km5sGqYFcQRGJLYhSQ1CbX1elmPvzls&s"
+  },
+  {
+    "name": "ITIL (Information Technology Infrastructure Library)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpbs0u0R_fYM3amRTEkkjk5UoBtuDW6VFM84FR09tH6xQ1h4qe_0-gR89G5yM&s"
+  },
+  {
+    "name": "Service Desk Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0HKsaYqrSWM46Vs201oCL3NaiIgMyXi-DBYqJATTosM8QON8lgc0Z4F-dQg&s"
+  },
+  {
+    "name": "Incident Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTukfNQpC8ONJfUIHMTP1auEpbbrBwvw6PDk22cTYvPgBlwU2wnsmsck6_3GQ&s"
+  },
+  {
+    "name": "Change Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjV-Qj8k-T0rGQxaUpm8_wlBX-I7czKFXRR9JNd5p5G8EhMGpZNneBR2Oyyg&s"
+  },
+  {
+    "name": "Problem Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpoKgKu4q0oJiSOELe3sSbYLVf3PlknWK4oIIT9Ukhn2uwSg0eDCxIBmrygLc&s"
+  },
+  {
+    "name": "Release Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9smycaYhmdsIiWcOGjfSwws8CIsLwtxR-nX3pe0FtiN1-y-DLb1bxjFsrRx0&s"
+  },
+  {
+    "name": "IT Asset Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8x2j7xMEzDxRkJOsjjgxWJLfLPGaY9BtM9QHHqYWp42RNbiqNBbucnsxUg&s"
+  },
+  {
+    "name": "IT Service Continuity Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGcXXdNTj5xXhL9x0WMaMo1zsYx7PYb4UEYRyDM5wsIgKpgcuMN2c9ea9Bg&s"
+  },
+  {
+    "name": "IT Service Level Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW238HJYV5M-P7Z2sfw2mA9eVJxsbGM1122uTPJwp6d-dCaVbM1QBMZiXF2Q&s"
+  },
+  {
+    "name": "IT Capacity Planning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xsNjyL5lybJ4-UAKyFDIao9OGXsDh4DnU3XHalYuPiY8XYfGY5Kr20MK0A&s"
+  },
+  {
+    "name": "IT Configuration Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDReOj07GAVndYtEAII0fb3rhVILZykjcot3N-qzdR8JK0SDfCs2IVBupI18A&s"
+  },
+  {
+    "name": "IT Operations Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Bj7JklkbDo7eb-QfDNJX5qMKbwnBT3rA6ru9wdO85ACz584nGms05jv92NY&s"
+  },
+  {
+    "name": "IT Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDRFVHQNBDwADyVBOQYK9ycHy14L9BkKU75TaXXCy_SG5FAm03XFKhK2F2AR4&s"
+  },
+  {
+    "name": "IT Risk Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtfUvQ_2uHpNvTEqBqdniMWy4335UoP__ruajDpNYAvnvlNEK71N4zY1UeIq4&s"
+  },
+  {
+    "name": "IT Compliance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlFeV9vq85Hsp2KlbtHmQNUM0Zq16mnxs4cV9-E0LixrSMmYgyhNb1Uc4ExBY&s"
+  },
+  {
+    "name": "Business Intelligence (BI)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4z_5J4Qej9fJqpCFyKhjgnxcKxpZDJ13ae40v2uZfU0RupcsxLgasgECA&s"
+  },
+  {
+    "name": "Data Warehousing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstk_YW_M1erenPuRSJOcLhZXxE4WupmP8_e60SuV6F-KN-r76O5Ki_C8dS6I&s"
+  },
+  {
+    "name": "ETL (Extract, Transform, Load)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd9ssOi7xeG7r6bE_c_cqWhENZSfFu4v3fZHOqoZ7aZbl2ykGtw1xj7rj0Bg&s"
+  },
+  {
+    "name": "Data Cleansing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyFUR9L6Swdvxx1fQwjLT4e2K5RlcGLATeEeRic5lm6vdOkEUtZruwk5XVVqE&s"
+  },
+  {
+    "name": "Data Integration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOM_KZFKzq87un4IvZxWVYnajWl1VYJqu_j-fTEHnO8ZpB-lWbkfiC7CKWpU&s"
+  },
+  {
+    "name": "Data Modeling",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-g_kaITjWN7A-H0LsEa0qDNb9i0tKD9AJC15zBDH8uA5D1A8HZSI1KvncA&s"
+  },
+  {
+    "name": "Data Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6nLodCHCwlrsQOfOi45R1DIWlCxduRZGB6hk4rGyHU1Gdqhcxsyth-xOzfY&s"
+  },
+  {
+    "name": "Data Quality Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjh7DhSJX8LQ1Ex2_PXCzcfp4D1VSdjkUF5oG8oBYqzwFaZLSiyJXfbBMqPA&s"
+  },
+  {
+    "name": "Data Mining",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09KSpzx1cpoZUHqs7VMpcZFS5ve-gc7YgrGr4za0ccBYtQ87Q0SapCt2Fiw&s"
+  },
+  {
+    "name": "Business Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTizJ4n9CMELdV8_KelhNjpoTmj9qMsw9zN6Kkmpfa8hjoCzQXfzpKLk_IupQ&s"
+  },
+  {
+    "name": "Predictive Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQKtjxnPN2Q2iCxvrK5sRimqlYCL8zBewsWb2YmDZQuj6OTRePxlR9iMQUWNg&s"
+  },
+  {
+    "name": "Prescriptive Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjUz5RHEkMuzuWubEPBErn9MVlGqIf3FMH8VPMULxFuQdNA3VO-f4D8kCASw&s"
+  },
+  {
+    "name": "Descriptive Analytics",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8s7weWqUDyHHMdWyBYuQw3z5B6FXnVfG8D0tPdosy7SLLcQObOtJFaPzLw&s"
+  },
+  {
+    "name": "Data Visualization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8DKo4lJEValbOiU3RASUFo4_eONuGPix4b1YWtJ1krvN0IIFPDYVBakloA&s"
+  },
+  {
+    "name": "Machine Learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqzzKnCVs8QPFwjNAI32Cxxwl8XIsi-N6ZFIOliVda6s-b7mnDNl-V6Cj70Q&s"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhM34wYxKNQ0DLGA-V-SM0Poo44HSBGgKz1bOzQzHT2wP1XI605M7VJ-AXVA&s"
+  },
+  {
+    "name": "Natural Language Processing (NLP)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc8feyjESzc0UHwu01EJQuhEMZGjuN-4grplsMe3oH6oLe1oTuhFTTvTIdnco&s"
+  },
+  {
+    "name": "Image Recognition",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBvfX1zdRceHVK22mcwxN6KHbuOjpugg9lKAdHy2VfRwQUJCQoXjW6dQ08A&s"
+  },
+  {
+    "name": "Speech Recognition",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZZEFQYQ8Dt_Ri8M3POoG4fVv_AAg3GQ0-8fywvkqRukK73gl0wA0NYaImeAw&s"
+  },
+  {
+    "name": "Pattern Recognition",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYxnOJcMZQKsdrDrUPJkuX0zYIzYnPe9tOGv4d33ugZ4K7JYHKDsC0gFmPQ&s"
+  },
+  {
+    "name": "Recommendation Systems",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpvCsIyeHYj7-iLfnNto1YaCAWFhbVRW3OT1COJs05D_lWUhCY2RVY7yuNuw&s"
+  },
+  {
+    "name": "Sentiment Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2FCSQhCXMAc3ujUfxrWL5psAHrcP9aswLss4XMfqL6dZeRlWBsDz4sxA3khE&s"
+  },
+  {
+    "name": "Neural Networks",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfPYA27-7GlKqqafXxQNwIF6lyXH41gIPrAop5JAfjhDY3sqfSZWYsLksiafk&s"
+  },
+  {
+    "name": "Deep Learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqzzKnCVs8QPFwjNAI32Cxxwl8XIsi-N6ZFIOliVda6s-b7mnDNl-V6Cj70Q&s"
+  },
+  {
+    "name": "Reinforcement Learning",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZip2kr5TkqWUZDwGU2QTobAdMRoc6-FkpXG7MODcfR3n9RX8LMnjnxRjpjtI&s"
+  },
+  {
+    "name": "Genetic Algorithms",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNANOVMfD-qxVKSNZc79Bcuumk7jLzCH93tvY2bVQZgtNd9Yp9LV9ycndeILs&s"
+  },
+  {
+    "name": "Data Science",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lhf6qddhjbPY3set81qewLoBq0-rcV_vAA9G6KN0HkV3mAuhG9xtCqfBuMk&s"
+  },
+  {
+    "name": "Statistical Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXThZF2GXH6UaY7vXR8Eg1pBcHpN81y_E_M7B2q-6TtaK-Z26nnh8sR6tIcA&s"
+  },
+  {
+    "name": "Hypothesis Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvq7RAbD2e7pm5aG6Qub8Id6WILXEbXitotX5-IX5lmWBeYzbzAvEmYpSavg&s"
+  },
+  {
+    "name": "A/B Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsrqQDy1NTCYq58isaGigBfio5fqn4W-3MHaA-rGE7FtTaNiitlZbk_eDTtE&s"
+  },
+  {
+    "name": "Experimental Design",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlLi2clzktJ4DuwBQU8hPckoF_Jq_J10axD7g9dEWat14kWYkxsZBQkXXcdw&s"
+  },
+  {
+    "name": "Time Series Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvSfe-L5qwiDxOHIxvIqklA2KTfxqaGYdYk5jFiA9o54L-PIVBMjZyE_7lXs&s"
+  },
+  {
+    "name": "Regression Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUuzvPmpvWcVqGAtZ81x_t86TuB3U06bsJ_tkeYfy-9H1_FGqkO70fVTg_9rE&s"
+  },
+  {
+    "name": "Classification Models",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx9KPcIQWQiBmrvoDrYdKNyUArKg_AjIhajAVQuz0iq1pfwbPQfrQVGDKvDQ&s"
+  },
+  {
+    "name": "Cluster Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiosZwVrOCL7SO79ZZMAhP8u64Y6OBTYWy7GawFoiFX3XKVVuw1rHSfxPRPQ&s"
+  },
+  {
+    "name": "Dimensionality Reduction",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvm_YifXTraaLeMNLA9eRR1ge1yh7y0pZ7I-fDhzi6SGXFVg9JiuWfULntiXc&s"
+  },
+  {
+    "name": "Data Preprocessing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhK3RVK0pvj6F56eyQVVYDa_4yFlvg1SGgKPgXHv3RVdatqy-rZKprdmnth78&s"
+  },
+  {
+    "name": "Feature Selection",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0pOmMK5w2h3Ti7MBQzpW0ws8bJJi-Pd8uBw198emUedN6mjz3qm-9yWeGBg&s"
+  },
+  {
+    "name": "Feature Engineering",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3dgKGwFrrMHIbYZolzuplMjtDxOdMsbLs6pubwwuFNf00pGPHCBPKijGhPc&s"
+  },
+  {
+    "name": "Big Data",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOhzqJgXkLzKSqOQczjnmdrZnWloOYo14-NaYNjSPvC0xzRUDbAbAzLxWy6M&s"
+  },
+  {
+    "name": "Hadoop",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvoFfhhawZXMztxbw19A_OaZ4RrDiCVIHxsE4OOLr6try5SRg_oRlYD-uvg&s"
+  },
+  {
+    "name": "Spark",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrI0vyBwli99OnKuMCohQZJQTjUyC0LKrX7aBTSsuWFXo90o_CyBcysyBuEVc&s"
+  },
+  {
+    "name": "MapReduce",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvbTCw7yWXSdwjSI1pFABipE0sYy_Vi_K520DBnpwZQnxMkc-Dag0thvF1yQQ&s"
+  },
+  {
+    "name": "HDFS (Hadoop Distributed File System)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL6pskp3DNYDVUb_vAd_LL7c8btVAhRab27ISILHfp56utBPPnMpm0CuTsw&s"
+  },
+  {
+    "name": "Hive",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FazGuagUVmqybk5251GMfBqblJ4aq84B111_YWS-BNLRnVrs14Bzt82m2Q&s"
+  },
+  {
+    "name": "Pig",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGIbHDlPpP047HN3EnOL_K1mFRL9KOVYhHamC4oPz-GUbf1WFWHSKTeETpe9Y&s"
+  },
+  {
+    "name": "HBase",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBb-CRSj6Wyt_aRNXSMTxb73LCwttlzFem0xvb2LBF-UJD1hBidBoZTAi0TA&s"
+  },
+  {
+    "name": "Cassandra",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJR59h75UzG3147M58maal70FzQNeRorGdfk4vWcoOOAMWHgQ-P9owaFmfqA&s"
+  },
+  {
+    "name": "Storm",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVzAo2fh2rBuwpZnTiDQw0ypBuQVX6_JUOrDMM5PWCHutiHE3LSg8uyfO5iE&s"
+  },
+  {
+    "name": "Sqoop",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79vUqiBpJi7Bqhnhuvx2UgJ0kd6IzwdOaNo34HfPO_Ym5CC6WrgVUUYG2Bg&s"
+  },
+  {
+    "name": "Flume",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbm3B1YRi7I7E1RXOgiRKGfd_cZTLDOjZp8UJQgnv2dQn7-RZEXEV7gl2kL_s&s"
+  },
+  {
+    "name": "Kafka",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8E7MPX1cR8X2g4MRgmZbvKrFm6-M6OKcxUDI40kY2qD1xCqNP8SJXxkXoQ&s"
+  },
+  {
+    "name": "NoSQL Databases",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOKoJZyZCvSBDhm4_4FTVwkgVgQDLSgNENuz81OwnSKJ7wyZkAxZOuVbIx6s&s"
+  },
+  {
+    "name": "MongoDB",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RC2zlZOfnC06iaxw5k75R1T-MOMDRgcM4AYobppCWVrbmoQJQMovyZWdrz0&s"
+  },
+  {
+    "name": "Cassandra",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJR59h75UzG3147M58maal70FzQNeRorGdfk4vWcoOOAMWHgQ-P9owaFmfqA&s"
+  },
+  {
+    "name": "Couchbase",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Jd88pT8V0ROBj1W3MvS1vjUXb2HNmDPrfCRmYc0nJCf4qfWBJO70sZvIRTA&s"
+  },
+  {
+    "name": "DynamoDB",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygpXIrabPn3jY_4EpxScI1OfbOrCCaZhD2QfaPmS9ndfYbeDv6sYge0kr7RQ&s"
+  },
+  {
+    "name": "Redis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRgzPnR550H1x7Iql12wECtqASPNWMM5J6jUFKb45wljtWJqWYxN-JXqYxUQ&s"
+  },
+  {
+    "name": "Neo4j",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJBjWusRWgOEtXWIa77RqymCnn0iVNJVJ4XIktyxpT7HBF3Im5LjQI-7k7wKU&s"
+  },
+  {
+    "name": "InfluxDB",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDjV1rdPLURIO8hU6pjoyUDv4q7DknhGHP30evaUVkhvCEm1xbO4ktyLuN7hY&s"
+  },
+  {
+    "name": "Time Series Databases",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y040Ym5cvCxP42AaYNHJ2wKqDnKQHflewTgVgciernLXtHBag4iUUREjbg&s"
+  },
+  {
+    "name": "Graph Databases",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyk-rcxzYtU66aX6mrUeZxY8Qeb_rzyxYqbgx7956PY6-2f11S0S-P0RK9uU&s"
+  },
+  {
+    "name": "Apache Lucene",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPInuMoXI0r5M48BSwb_WzRFV_cbm5b-pT31XAkoGCPNC9w08ZfmrmxKywwt0&s"
+  },
+  {
+    "name": "ElasticSearch",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA1nCG2bkrYB4BSiq1YK7MJcGTocD0R0JgyfSIiqleJ4RLP7fUtGl_Zh8DLhE&s"
+  },
+  {
+    "name": "Solr",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHpZnAM3wCznl6QX1og2FEuHHmDzZ9YOXTMu9BvtCDFOq5xsOI4GDN792fow&s"
+  },
+  {
+    "name": "Kibana",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Hpo6CO2KPZv8Ulzu0TViVpx_wyMi9YaZ8gtyk-H7sVaxlGFYRwuMhdR0DG8&s"
+  },
+  {
+    "name": "Logstash",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEM8PYLM6KuduLibUekIcrYg6lwUP6daGHpIZd1GiVTQkJrFfPtRLM_C0DFSY&s"
+  },
+  {
+    "name": "Flink",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ZmNIZEOhA1YWvZ4M6k7ZfYykwC3I08UD5P_pPfQor38kyeXcvnNNW1dWWw&s"
+  },
+  {
+    "name": "Data Engineering",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqVjVec8X2s0HoL5tDY671pdr-JQqzMJ4nB7TH5Lkkh8s10gQ9lRUIq-4m618&s"
+  },
+  {
+    "name": "Data Pipelines",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubhzLIEU9c4k3qjCpiZS3GF_NGvL5LBrSVyi1kwKkMuK2CgxRq295pRE7Zw&s"
+  },
+  {
+    "name": "Data Integration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOM_KZFKzq87un4IvZxWVYnajWl1VYJqu_j-fTEHnO8ZpB-lWbkfiC7CKWpU&s"
+  },
+  {
+    "name": "Data Lakes",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5QWhfHZMUCc2T3lmcY9kV2Dh-J3T0ZoQTi8u6oNBqRHetuRh8PziV0NVPA&s"
+  },
+  {
+    "name": "Data Governance",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6nLodCHCwlrsQOfOi45R1DIWlCxduRZGB6hk4rGyHU1Gdqhcxsyth-xOzfY&s"
+  },
+  {
+    "name": "Extract, Transform, Load (ETL)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd9ssOi7xeG7r6bE_c_cqWhENZSfFu4v3fZHOqoZ7aZbl2ykGtw1xj7rj0Bg&s"
+  },
+  {
+    "name": "Stream Processing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAuCdoxSu77WzVmOD1LIPp082yNJWHX6EKC1plxoDIalYSGvOP-pW_oc84VM&s"
+  },
+  {
+    "name": "Workflow Orchestration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAFvSFn6IoS67xojIKjMUQaGn5RL2yYLr8kcNqiv2ustfkfqZZkdEElPQ6VQ4&s"
+  },
+  {
+    "name": "Cloud Computing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jyyCy2uWU-G_E7YpC9YC8DofitubJJMCQ_oA_ob3yOooa6NYP0vpoqXsCg&s"
+  },
+  {
+    "name": "Amazon Web Services (AWS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBw4GCL1soARkaXGUD9iJMmllqHkFgA7SGhC2U4ZBelw2L4cvkGBinjvJZg&s"
+  },
+  {
+    "name": "Microsoft Azure",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6HGm4hU6c0YDx8RDjF30Iezk4h1-9aQdgljuPnkzQXCQYT37l89pDthb3x0&s"
+  },
+  {
+    "name": "Google Cloud Platform (GCP)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5smaxns2eJUoh7Fnpi5priyNAAIKoWxCiBS_94KeXDyEyJ8pocezoZFXbJE&s"
+  },
+  {
+    "name": "Virtualization",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqrqLqG6xa86HB1SSVQC2JCBgxuLfrSUxBLk5gHUseymu4bWmGy9vNOUtjw&s"
+  },
+  {
+    "name": "VMware",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpsWsT13zOKqfz5fCYl8ORN5qnmu7V87upjhdDJ1LQmVdXU5xKjbdol2fF5Qw&s"
+  },
+  {
+    "name": "Hyper-V",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTVQohJqVrdqHtTgtObE4mZVh40iepd20IMl_AUvmm5zxsG3S30POaa_6m_ek&s"
+  },
+  {
+    "name": "KVM",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXPFJAwZ8XLBbt-934EFvjRlriOxJLdnJH1oTy9ODuuL1cgb7Xq-yiMkSxQyg&s"
+  },
+  {
+    "name": "Xen",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvtAxgL5NLdQXdGgZO7Lk9WoSSuMZ9z-qLLU_vmCpBWH2J-Y3Gv-EPqncusp8&s"
+  },
+  {
+    "name": "Infrastructure as Code (IaC)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0sSKxEO8lwpfmPHG2tP5Gk92Y8F3vdsNKo2zgQqnzppsgdFsLWCzD0FElw&s"
+  },
+  {
+    "name": "Configuration Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDReOj07GAVndYtEAII0fb3rhVILZykjcot3N-qzdR8JK0SDfCs2IVBupI18A&s"
+  },
+  {
+    "name": "Disaster Recovery",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9e1VF9jh30hQirnJbAT3VaEs0YISO5UGhkBMz9bnzC7y8nKlp9314crfrmXw&s"
+  },
+  {
+    "name": "High Availability",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyPHS_c-uU9V3y19Sw68zr7B0hkxPs9u3U41uPsEew75bpsNEn9JKY5jRzuI&s"
+  },
+  {
+    "name": "Load Balancing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFcz5mpEoyjr_Humh4x7ehYsI82XRBI-ZzGOqlGe655XQl3ApS2avTjHWkg&s"
+  },
+  {
+    "name": "Network Security",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKiV1rZsHSjWRCLf5qFHdSb8wkoaQXw2ylrAWD6uay7rVs1IM242PPui3pmg&s"
+  },
+  {
+    "name": "VPN (Virtual Private Network)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-EFG3cIxZjKJsraA5DfzDxzHSL0xg525Ckf2NzDwhRtAqFEoXX3bonH2Yd4&s"
+  },
+  {
+    "name": "Firewalls",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfhXT7G-kAAb1bMzGapsbj_3BW7cMqTa-E0QrJRIWL84iMoO_gttIHmj62A&s"
+  },
+  {
+    "name": "Intrusion Detection and Prevention Systems (IDS/IPS)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIzKfD2rIfFu6PomzbrKmJzFwhPWw51eIospcnTitjLfHWLnFwtwf3ONJUA&s"
+  },
+  {
+    "name": "SIEM (Security Information and Event Management)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_CeLEqb-XPdG-oha35Hr7SEn26l4EkKuXint0pvPEQuBmDzmq7yrxyYoRG8A&s"
+  },
+  {
+    "name": "Security Auditing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcupjpgQD6KybRqQFDw9XkVdl00R8V-JAwELAsw6Eqe0Ubh1vkypf8fjIAZA&s"
+  },
+  {
+    "name": "Encryption",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJY41KVxWxwxnOqGxnIAkGkZXsKk8736uYWs0WfSsw5OXZhMxTDQe9oU1x57c&s"
+  },
+  {
+    "name": "PKI (Public Key Infrastructure)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrIil9ntOvSoSFRHG32QqCRXBTxJTFmQSo5eHhjlSgCb6cQaxfMCs_Mk26g&s"
+  },
+  {
+    "name": "Data Loss Prevention (DLP)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-SD9yteggT3f19c5vY_GEpgSB86OCB0JYU2pXNQMzf9iQrBY69VYG8t2uPE&s"
+  },
+  {
+    "name": "Incident Response",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTukfNQpC8ONJfUIHMTP1auEpbbrBwvw6PDk22cTYvPgBlwU2wnsmsck6_3GQ&s"
+  },
+  {
+    "name": "Malware Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWaJ8xLe2hPvQvuR4RNgq7wD-EjbqJrDdrHPGDZJOnJxF0IKeeEnyYy8EyQ&s"
+  },
+  {
+    "name": "Vulnerability Assessment",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cEU9i5VOU3GzFNIKvxUN4xceKIl-Ji0dovQjT6BwyoD5b1CxkMqajX4fv0Y&s"
+  },
+  {
+    "name": "Penetration Testing",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrFGNeZGsMsezdnQaG03yOXUO6156wh7duIkz7dCmMDteTd4NE2n2CU2tBrQ&s"
+  },
+  {
+    "name": "Identity and Access Management (IAM)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgUNa_id_XWHAtKthnmynySgTc3mPkCxkZlHr-idsoGVhRHfoH6oTSc9nGjQ&s"
+  },
+  {
+    "name": "Single Sign-On (SSO)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnp8YNEaifSWp_WchGxqbln9YNSi6CZR5qxD9eNyyx3SJOpGXxWxur16syXk&s"
+  },
+  {
+    "name": "Active Directory",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPeMbL7HGkZxIiVgLPoGSlxuHaSsn5eS2BjgIBvbxl11BBA5daltMvaMUyA&s"
+  },
+  {
+    "name": "LDAP (Lightweight Directory Access Protocol)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT82buayhdw3KVhu-fWQ_u2BSagTlaKLpl2Li3if4zD02iQq5pR1mZmU5wan7M&s"
+  },
+  {
+    "name": "Network Administration",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDRVynZTUoH7K4I3rpoqrUJ14uwSuiTmwW-2XYrCcSY6yr3pVXcWGecc2e2gI&s"
+  },
+  {
+    "name": "Routing and Switching",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU928sW3pCWZm7okCWogbeY-smdscfBAoL7OrNVSPqM8MdkZvTVUyT4k_Mow&s"
+  },
+  {
+    "name": "Network Protocols (TCP/IP, DNS, DHCP, etc.)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGaQDRamNbK6wR8nfUzeg4T-vTyisqpU-414ZTHsrqMOrFgilfLeMIIfKXxA&s"
+  },
+  {
+    "name": "Wireless Networking",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTED7I0PzzI-8p9jGaJNQZVfrgg7txh5N-_QoqniyGbqSz_-1efb66hv9vigGQ&s"
+  },
+  {
+    "name": "Network Monitoring and Analysis",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltrxHnjAOAYpl7Cs-bL9UeXTV13L5DmUkt8pdSn9lHUCvg7yuNEoWbk4ZC_c&s"
+  },
+  {
+    "name": "Network Troubleshooting",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-g6QVcCqAZAF4RLOGPoQfFXvQJnZILEP2CgdumeBFsJ2YnUNMx5WZPbHExQ&s"
+  },
+  {
+    "name": "Firewall Configuration and Management",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDTciiG1rzw4CU9tmgC2VdvZST2g5ZjCJnOU_aTjLnZchzVWuxgEkcvpBxgw&s"
+  },
+  {
+    "name": "Cloud Networking",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMb67vlU7PJy17vf81aUfDF4Xa69FE9OBEqUq3R60wq_jPokUSx0QFWpZ5og&s"
+  },
+  {
+    "name": "SD-WAN (Software-Defined Wide Area Network)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJw5BJVuNfjp5INkfJ86KYB4dMLOLa-WQuWPVUEsEZSikO2S8hRVTxyTRc1k&s"
+  },
+  {
+    "name": "VoIP (Voice over Internet Protocol)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvgGbYz-5dOozDng5j7bt1MoVuw5ggZ3hla70ihupG2gKyKq-ZyDplwuIW-38&s"
+  },
+  {
+    "name": "Collaboration Tools",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v-4zJyl5eq3OrLslAgxgQ0xfK1P9U-Dt4-eFI60Puzra2RIwJ0Mnr_KXbMA&s"
+  },
+  {
+    "name": "Microsoft Office 365",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFTtNGjsvpBUYII51XirBsp-VZ4It9rH1F3roWE5BPRQpfgZLtzpq8pwlFrxU&s"
+  },
+  {
+    "name": "G Suite",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpXOMtcvJJRVpkXY0My_ovhlyhYyANvrDALOuPZkJei_hKY-vr6qo2KKMuIyM&s"
+  },
+  {
+    "name": "Slack",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk-DP6wFkLwWaScW6WCS5QubO1GL7wTpUxKiqBE0FEn--lxvp1MT9S_DhvTS0&s"
+  },
+  {
+    "name": "Microsoft Teams",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIe7Hq-JkWQi8d7M-M3fLl4M68fjNRAYYGsWUuztRimHycIqJWJwK5zHT9Kw&s"
+  },
+  {
+    "name": "Zoom",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCoD6aNncWtDtLSLbWZo3D5xRY-mx5-wrh5YhY3PmfTbZwrpM1rLFrTFUR3Q&s"
+  },
+  {
+    "name": "WebEx",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1wMIWFHjbb-auVX1CtPRPAgByCpaZqsHLM00B2TAlVmXbXVAw5braSTizkA&s"
+  },
+  {
+    "name": "Asana",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXIVTL9-0ZFm9CFTMP2R2U8Ns_gC7zhHPs4NlZ-REwwWw08-8uoumxkDiDQ&s"
+  },
+  {
+    "name": "Trello",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7KQIVUMjaHM2mai8NbksNnGioNGsHBosUWP22af8xtH4S9y5AFy_NFO-SOA&s"
+  },
+  {
+    "name": "Monday.com",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbq5Ij84EU3cg09QRF9egZAoJgxzV40KSBd6_F3Mnkx5-uWcvlb-W2wKbpbwc&s"
+  },
+  {
+    "name": "Wrike",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-yRt9PWk5QA94ypbiZTFEfbmTypbF6AKKSxkUe1nKxEkNgem6nhXaTyDMOk&s"
+  },
+  {
+    "name": "Jira",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwH1cOnvs1J1rhcEXS8jGnTVr5aGI3Q4IucbrGa0YE5ypii0Lx7XDP9Gl5oVg&s"
+  },
+  {
+    "name": "Confluence",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFXXHRFHYHpbdBjkR6oHmw1VFATop51Jw13O-lvMJl5u_02Fb3-Z3CEDSDg&s"
+  },
+  {
+    "name": "GitLab",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRemQFWZB-mfncmYXXNwMG4bwVmmwg73tHG3nb-PzAxpj4Nv8F8BzWm17Zl81Y&s"
+  },
+  {
+    "name": "GitHub",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQleicaiE5aHlmR3dNjfPXdxYFJfO5usOhBesu2PoLtLVqyjp7vbc8c4AEgPQ&s"
+  },
+  {
+    "name": "Bitbucket",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0roZ2YBxInDvdes6-8KgMEez2ijre1mqqBMdvcX4EI6ED1JDQlct0LV65ghk&s"
+  },
+  {
+    "name": "DevOps Tools",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy40zquzbHh183snxtf_Rj7YP-08ZSqv-fQH-Sbu_wAx0XKy1wEKV6UWURWyM&s"
+  },
+  {
+    "name": "Configuration Management (Ansible, Puppet, Chef, SaltStack)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTdoLLNApx4fBNzfKju10tElV9nUufgiYXqNcQ_ID1IX-x_AXLeaFdCiFmrQ&s"
+  },
+  {
+    "name": "Continuous Integration/Continuous Deployment (Jenkins, Travis CI, CircleCI)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-cbTh_UAOWHOGgH6uJpzomvfoZc_4mTpJ9tGaAjFJt4TaQu9UGZg16_uqAgM&s"
+  },
+  {
+    "name": "Containerization (Docker, Kubernetes)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZ0uki0W6LFqmpPOTvWKl5PR97kQ2FsiBv_87wfUzM-tLgl3sDEMhYQiqvg&s"
+  },
+  {
+    "name": "Infrastructure Monitoring (Prometheus, Grafana, Splunk)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyaqhB8iPwMy98sKmR9k2IGikVkyHY3vqm7xTSdyypRhyH5ZKmU3uzSOYVw&s"
+  },
+  {
+    "name": "Agile Project Management (Scrum, Kanban, Lean)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9waXuM_-3dV54gMudbE7Y6eIG_C6lzr_98n-HfX7WlZpsPwQ54NGiP1NnAEw&s"
+  },
+  {
+    "name": "Test Automation (Selenium, Appium, Postman)",
+    "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNDN3v9fCXj7p-uhzWisVySLTMUBnybwSc29raPlhbulDjOZd3vdG-0TGXNM&s"
+  }
+]
